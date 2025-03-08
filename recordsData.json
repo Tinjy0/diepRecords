@@ -1101,24 +1101,24 @@
     },
     "dev-tank": {
         "ffa": {
-            "score": 1,
-            "formattedDuration": "00:00:10",
-            "scorer": "Trojan"
+            "score": ,
+            "formattedDuration": "",
+            "scorer": ""
         },
         "2tdm": {
-            "score": 2,
-            "formattedDuration": "00:00:15",
-            "scorer": "meli"
+            "score": ,
+            "formattedDuration": "",
+            "scorer": ""
         },
         "4tdm": {
-            "score": 3,
-            "formattedDuration": "00:00:15",
-            "scorer": "CleverYeti"
+            "score": ,
+            "formattedDuration": "",
+            "scorer": ""
         },
         "maze": {
-            "score": 4,
-            "formattedDuration": "00:00:20",
-            "scorer": "ihazdiepression"
+            "score": ,
+            "formattedDuration": "",
+            "scorer": ""
         }
     }
 }
