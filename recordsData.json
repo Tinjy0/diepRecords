@@ -1111,9 +1111,9 @@
             "scorer": "meli"
         },
         "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
+            "score": 3,
+            "formattedDuration": "00:00:15",
+            "scorer": "CleverYeti"
         },
         "maze": {
             "score": 0,
