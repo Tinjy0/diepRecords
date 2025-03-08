@@ -1101,22 +1101,22 @@
     },
     "dev-tank": {
         "ffa": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
             "scorer": ""
         },
         "2tdm": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
             "scorer": ""
         },
         "4tdm": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
             "scorer": ""
         },
         "maze": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
             "scorer": ""
         }
