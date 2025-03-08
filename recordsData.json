@@ -1116,9 +1116,9 @@
             "scorer": "CleverYeti"
         },
         "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
+            "score": 4,
+            "formattedDuration": "00:00:20",
+            "scorer": "ihazdiepression"
         }
     }
 }
