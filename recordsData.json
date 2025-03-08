@@ -1298,5 +1298,36 @@
             "formattedDuration": "",
             "scorer": ""
         }
+
+        
+    }
+
+        "dev-tank": {
+        "ffa": {
+            "score": 1,
+            "duration": ,
+            "formattedDuration": "00:00:10",
+            "scorer": "Trojan"
+        },
+        "2tdm": {
+            "score": ,
+            "duration": 0,
+            "formattedDuration": "",
+            "scorer": ""
+        },
+        "4tdm": {
+            "score": ,
+            "duration": 0,
+            "formattedDuration": "",
+            "scorer": ""
+        },
+        "maze": {
+            "score": 0,
+            "duration": 0,
+            "formattedDuration": "",
+            "scorer": ""
+        }
+
+        
     }
 }
