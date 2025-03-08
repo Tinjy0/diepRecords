@@ -1299,8 +1299,7 @@
             "scorer": ""
         }
     },
-    {
-        "dev-tank": {
+    "dev-tank": {
         "ffa": {
             "score": 1,
             "duration": ,
