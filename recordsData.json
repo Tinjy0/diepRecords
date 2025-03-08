@@ -1302,18 +1302,18 @@
     "dev-tank": {
         "ffa": {
             "score": 1,
-            "duration": ,
+            "duration": 0,
             "formattedDuration": "00:00:10",
             "scorer": "Trojan"
         },
         "2tdm": {
-            "score": ,
+            "score": 0,
             "duration": 0,
             "formattedDuration": "",
             "scorer": ""
         },
         "4tdm": {
-            "score": ,
+            "score": 0,
             "duration": 0,
             "formattedDuration": "",
             "scorer": ""
