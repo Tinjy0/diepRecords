@@ -578,9 +578,9 @@
             "scorer": "Unnamed sniper"
         },
         "2tdm": {
-            "score": 3780000,
+            "score": 4020000,
             "formattedDuration": "",
-            "scorer": "GLITCHER TM"
+            "scorer": "rbest"
         },
         "4tdm": {
             "score": 4300000,
@@ -793,7 +793,7 @@
     },
     "auto-5": {
         "ffa": {
-            "score": 2260000,
+            "score": 2200000,
             "formattedDuration": "",
             "scorer": "Deniz"
         },
