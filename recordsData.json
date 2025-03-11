@@ -1098,27 +1098,5 @@
             "formattedDuration": "",
             "scorer": ""
         }
-    },
-    "dev-tank": {
-        "ffa": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
     }
 }
