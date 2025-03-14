@@ -1102,9 +1102,9 @@
 
         "dev-tank": {
         "ffa": {
-            "score": 0,
+            "score": 1,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Trojan"
         },
         "2tdm": {
             "score": 0,
