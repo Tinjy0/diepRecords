@@ -1106,9 +1106,9 @@
             "scorer": "Trojan"
         },
         "2tdm": {
-            "score": 0,
+            "score": 2,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Trojan"
         },
         "4tdm": {
             "score": 0,
