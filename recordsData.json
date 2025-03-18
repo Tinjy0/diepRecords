@@ -791,7 +791,7 @@
             "scorer": "exo"
         }
     },
-    "auto-5": {
+    "-5": {
         "ffa": {
             "score": 2200000,
             "formattedDuration": "",
@@ -825,9 +825,9 @@
             "scorer": "Kateal"
         },
         "4tdm": {
-            "score": 1150000,
+            "score": 2309670,
             "formattedDuration": "",
-            "scorer": "Stradpult"
+            "scorer": "Just Vibin"
         },
         "maze": {
             "score": 427000,
