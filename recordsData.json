@@ -769,7 +769,7 @@
             "scorer": "Relentless"
         }
     },
-    "auto-gunner": {
+    "-gunner": {
         "ffa": {
             "score": 3150000,
             "formattedDuration": "",
@@ -833,6 +833,28 @@
             "score": 427000,
             "formattedDuration": "",
             "scorer": "Astral"
+        }
+    },
+        "auto-5": {
+        "ffa": {
+            "score": 2257544,
+            "formattedDuration": "",
+            "scorer": "Deniz"
+        },
+        "2tdm": {
+            "score": 2200000,
+            "formattedDuration": "",
+            "scorer": "Raiden Ei"
+        },
+        "4tdm": {
+            "score": 2337673,
+            "formattedDuration": "",
+            "scorer": "Raiden Ei"
+        },
+        "maze": {
+            "score": 2176532,
+            "formattedDuration": "",
+            "scorer": "Baller"
         }
     },
     "spread-shot": {
