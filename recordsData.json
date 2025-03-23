@@ -226,9 +226,9 @@
             "scorer": "Wadjet"
         },
         "2tdm": {
-            "score": 2450000,
+            "score": 2470825,
             "formattedDuration": "",
-            "scorer": "T.wS"
+            "scorer": "Aleph"
         },
         "4tdm": {
             "score": 2960000,
@@ -578,9 +578,9 @@
             "scorer": "Unnamed sniper"
         },
         "2tdm": {
-            "score": 4020000,
+            "score": 4042797,
             "formattedDuration": "",
-            "scorer": "rbest"
+            "scorer": "Proxy"
         },
         "4tdm": {
             "score": 4300000,
