@@ -927,6 +927,7 @@
         "ffa": {
             "score": 1230000,
             "formattedDuration": "",
+            "proofVideo": "https://youtu.be/DMi422FPsl8?si=ePS5qOQjbX2M3dyV",            
             "scorer": "Baller"
         },
         "2tdm": {
@@ -938,11 +939,17 @@
         "4tdm": {
             "score": 1500000,
             "formattedDuration": "",
+            "proofImages": [
+                             "https://i.imgur.com/lSDu7op.png",
+                           ],            
             "scorer": "X-PRO"
         },
         "maze": {
             "score": 1180000,
             "formattedDuration": "",
+            "proofImages": [
+                             "https://i.imgur.com/lSDu7op.png",
+                           ],                  
             "scorer": "Baller"
         }
     },
