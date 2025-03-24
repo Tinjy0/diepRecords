@@ -939,17 +939,13 @@
         "4tdm": {
             "score": 1500000,
             "formattedDuration": "",
-            "proofImages": [
-                             "https://i.imgur.com/lSDu7op.png",
-                           ]            
+            "proofImages": ["https://i.imgur.com/lSDu7op.png"],            
             "scorer": "X-PRO"
         },
         "maze": {
             "score": 1180000,
             "formattedDuration": "",
-            "proofImages": [
-                             "https://i.imgur.com/lSDu7op.png",
-            ]                  
+            "proofImages": ["https://i.imgur.com/lSDu7op.png"],                  
             "scorer": "Baller"
         }
     },
