@@ -800,7 +800,7 @@
         "2tdm": {
             "score": 2200000,
             "formattedDuration": "",
-            "scorer": "Raiden Ei"
+            "scorer": "⚡Raiden Ei⚡"
         },
         "4tdm": {
             "score": 2280000,
@@ -839,21 +839,25 @@
         "ffa": {
             "score": 2257544,
             "formattedDuration": "",
+            "proofImages": ["https://i.imgur.com/qblCg6s.png"],            
             "scorer": "Unknown User☯"
         },
         "2tdm": {
             "score": 2196986,
             "formattedDuration": "",
-            "scorer": "Raiden Ei"
+            "proofImages": ["https://i.imgur.com/qcMmE35.png"],            
+            "scorer": "⚡Raiden Ei⚡"
         },
         "4tdm": {
             "score": 2337673,
             "formattedDuration": "",
-            "scorer": "Raiden Ei"
+            "proofVideo": "https://youtu.be/DJeBBqgzUh0?si=GCLwhoaBOvqQaBAN",     
+            "scorer": "⚡Raiden Ei⚡"
         },
         "maze": {
             "score": 2176532,
             "formattedDuration": "",
+            "proofImages": ["https://i.imgur.com/XURJe5f.png"],            
             "scorer": "Baller"
         }
     },
