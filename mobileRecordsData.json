@@ -243,68 +243,68 @@
     },
     "overseer": {
         "ffa": {
-            "score": 3070000,
+            "score": 1684513,
             "formattedDuration": "",
-            "scorer": "JB Colombia"
+            "scorer": "HZ6"
         },
         "2tdm": {
-            "score": 4960000,
+            "score": 907818,
             "formattedDuration": "",
-            "scorer": "T.wS"
+            "scorer": "buh"
         },
         "4tdm": {
-            "score": 4091629,
+            "score": 1046923,
             "formattedDuration": "",
-            "scorer": "Mohsen"
+            "scorer": "buh"
         },
         "maze": {
-            "score": 2110000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "JB Colombia"
+            "scorer": ""
         }
     },
     "overlord": {
         "ffa": {
-            "score": 4300000,
+            "score": 3059533,
             "formattedDuration": "",
-            "scorer": "Animal"
+            "scorer": "Moonlight"
         },
         "2tdm": {
-            "score": 7680000,
+            "score": 2255767,
             "formattedDuration": "",
-            "scorer": "Legit Developer"
+            "scorer": "HZ6"
         },
         "4tdm": {
-            "score": 6630000,
+            "score": 2252359,
             "formattedDuration": "",
-            "scorer": "Mohsen"
+            "scorer": "gd1v"
         },
         "maze": {
-            "score": 2320000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "JB Colombia"
+            "scorer": ""
         }
     },
     "twin-flank": {
         "ffa": {
-            "score": 1220000,
+            "score": 1057688,
             "formattedDuration": "",
-            "scorer": "Arsalan"
+            "scorer": "buh"
         },
         "2tdm": {
-            "score": 2000000,
+            "score": 378463,
             "formattedDuration": "",
-            "scorer": "Mr Cheeky"
+            "scorer": "VløKe"
         },
         "4tdm": {
-            "score": 1460000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "Peregrine"
+            "scorer": ""
         },
         "maze": {
-            "score": 1390000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "exo"
+            "scorer": ""
         }
     },
     "penta-shot": {
