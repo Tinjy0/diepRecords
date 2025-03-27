@@ -3,6 +3,7 @@
         "ffa": {
             "score": 1080000,
             "formattedDuration": "",
+            "proofVideo": "https://youtu.be/_CpJnPT6mHc?si=xDb4ABPFOmgRuwZQ",
             "scorer": "JB columbia"
         },
         "2tdm": {
@@ -18,6 +19,7 @@
         "maze": {
             "score": 701000,
             "formattedDuration": "",
+            "proofImages": ["https://i.imgur.com/76hv8v8.png"],
             "scorer": "Baller"
         }
     },
@@ -30,16 +32,19 @@
         "2tdm": {
             "score": 1530000,
             "formattedDuration": "",
+            "proofImages": ["https://i.imgur.com/mxdZLqD.png"],
             "scorer": "Unknown User☯"
         },
         "4tdm": {
             "score": 1710000,
             "formattedDuration": "",
+            "proofImages": ["https://imgur.com/9VCHMEI.png"],
             "scorer": "☢"
         },
         "maze": {
             "score": 1420000,
             "formattedDuration": "",
+            "proofVideo": "https://youtu.be/zPaGvvh581Y?si=yvY7werXy0I-lao6",
             "scorer": "Kesler"
         }
     },
