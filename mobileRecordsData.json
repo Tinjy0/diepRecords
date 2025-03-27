@@ -23,24 +23,24 @@
     },
     "twin": {
         "ffa": {
-            "score": 1970000,
+            "score": 4342580,
             "formattedDuration": "",
-            "scorer": "☢"
+            "scorer": "HZ6"
         },
         "2tdm": {
-            "score": 1530000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "Unknown User☯"
+            "scorer": ""
         },
         "4tdm": {
-            "score": 1710000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "☢"
+            "scorer": ""
         },
         "maze": {
-            "score": 1420000,
+            "score": 500000,
             "formattedDuration": "",
-            "scorer": "Kesler"
+            "scorer": "II"
         }
     },
     "triplet": {
