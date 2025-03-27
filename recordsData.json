@@ -14,6 +14,7 @@
         "4tdm": {
             "score": 1360000,
             "formattedDuration": "",
+            "proofImages": ["https://imgur.com/r5W68NO.png"],
             "scorer": "Legit Developer"
         },
         "maze": {
@@ -52,6 +53,7 @@
         "ffa": {
             "score": 2680000,
             "formattedDuration": "",
+            "proofImages": ["https://imgur.com/b3nmfte.png"],
             "scorer": "Unknown User☯"
         },
         "2tdm": {
@@ -67,6 +69,7 @@
         "maze": {
             "score": 1720000,
             "formattedDuration": "",
+            "proofImages": ["https://imgur.com/vneDuFb.png"],
             "scorer": "Kyo"
         }
     },
@@ -74,6 +77,7 @@
         "ffa": {
             "score": 1390000,
             "formattedDuration": "",
+            "proofImages": ["https://imgur.com/zMdxE0w.png"],
             "scorer": "RYS"
         },
         "2tdm": {
@@ -84,11 +88,13 @@
         "4tdm": {
             "score": 1480000,
             "formattedDuration": "",
+            "proofImages": ["https://imgur.com/uPUEfqw.png"],
             "scorer": "MG PRO"
         },
         "maze": {
             "score": 699000,
             "formattedDuration": "",
+            "proofVideo": "https://youtu.be/cUsfVQxDCX8?si=MOu043xhQBCYpCVf",
             "scorer": "xTriangleSquare"
         }
     },
@@ -96,21 +102,25 @@
         "ffa": {
             "score": 1240000,
             "formattedDuration": "",
+            "proofImages": ["https://imgur.com/l1oChaK.png"],
             "scorer": "Alberich"
         },
         "2tdm": {
             "score": 1590000,
             "formattedDuration": "",
+            "proofImages": ["https://imgur.com/hkfRf2K.png"],
             "scorer": "Fallen"
         },
         "4tdm": {
             "score": 1580000,
             "formattedDuration": "",
+            "proofImages": ["https://imgur.com/wiiTDTQ.png"],
             "scorer": "Fallen"
         },
         "maze": {
             "score": 818000,
             "formattedDuration": "",
+            "proofImages": ["https://imgur.com/mqD6Af7.png"],
             "scorer": "Astral"
         }
     },
