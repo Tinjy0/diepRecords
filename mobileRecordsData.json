@@ -177,68 +177,68 @@
     },
     "flank-guard": {
         "ffa": {
-            "score": 1520000,
+            "score": 1135580,
             "formattedDuration": "",
-            "scorer": "Deimos"
+            "scorer": "Athu"
         },
         "2tdm": {
-            "score": 1340000,
+            "score": 503748,
             "formattedDuration": "",
-            "scorer": "Legit Developer"
+            "scorer": "buh"
         },
         "4tdm": {
-            "score": 2050000,
+            "score": 525737,
             "formattedDuration": "",
-            "scorer": "Slade"
+            "scorer": "Athu"
         },
         "maze": {
-            "score": 719000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "Deimos"
+            "scorer": ""
         }
     },
     "tri-angle": {
         "ffa": {
-            "score": 2150000,
+            "score": 1752435,
             "formattedDuration": "",
-            "scorer": "RYS"
+            "scorer": "Moonlight"
         },
         "2tdm": {
-            "score": 2080000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "Minty"
+            "scorer": ""
         },
         "4tdm": {
-            "score": 1910000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "RYS"
+            "scorer": ""
         },
         "maze": {
-            "score": 1250000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "RYS"
+            "scorer": ""
         }
     },
     "destroyer": {
         "ffa": {
-            "score": 1450000,
+            "score": 1006051,
             "formattedDuration": "",
-            "scorer": "Wadjet"
+            "scorer": "Athu"
         },
         "2tdm": {
-            "score": 2470825,
+            "score": 642089,
             "formattedDuration": "",
-            "scorer": "Aleph"
+            "scorer": "buh"
         },
         "4tdm": {
-            "score": 2960000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "Tri-Trapper"
+            "scorer": ""
         },
         "maze": {
-            "score": 1040000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "JB Colombia"
+            "scorer": ""
         }
     },
     "overseer": {
