@@ -45,46 +45,46 @@
     },
     "triplet": {
         "ffa": {
-            "score": 2680000,
+            "score": 2537959,
             "formattedDuration": "",
-            "scorer": "Unknown User☯"
+            "scorer": "HZ6"
         },
         "2tdm": {
-            "score": 2330000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "Ricardo"
+            "scorer": ""
         },
         "4tdm": {
-            "score": 2000000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "RipDreams"
+            "scorer": ""
         },
         "maze": {
-            "score": 1720000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "Kyo"
+            "scorer": ""
         }
     },
     "triple-shot": {
         "ffa": {
-            "score": 1390000,
+            "score": 473502,
             "formattedDuration": "",
-            "scorer": "RYS"
+            "scorer": "lord Waffle"
         },
         "2tdm": {
-            "score": 1960000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "i'm back"
+            "scorer": ""
         },
         "4tdm": {
-            "score": 1480000,
+            "score": 399675,
             "formattedDuration": "",
-            "scorer": "MG PRO"
+            "scorer": "buh"
         },
         "maze": {
-            "score": 699000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "xTriangleSquare"
+            "scorer": ""
         }
     },
     "quad-tank": {
