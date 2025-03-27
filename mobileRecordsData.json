@@ -309,68 +309,68 @@
     },
     "penta-shot": {
         "ffa": {
-            "score": 2910000,
+            "score": 2650356,
             "formattedDuration": "",
-            "scorer": "Potatoboi"
+            "scorer": "Sterlon"
         },
         "2tdm": {
-            "score": 3300000,
+            "score": 3740262,
             "formattedDuration": "",
-            "scorer": "Bela"
+            "scorer": "HZ6"
         },
         "4tdm": {
-            "score": 2670000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "Emerson"
+            "scorer": ""
         },
         "maze": {
-            "score": 2000000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "exo"
+            "scorer": ""
         }
     },
     "assassin": {
         "ffa": {
-            "score": 1250000,
+            "score": 519436,
             "formattedDuration": "",
-            "scorer": "Overr"
+            "scorer": "Pianzage"
         },
         "2tdm": {
-            "score": 1880000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "Lambo"
+            "scorer": ""
         },
         "4tdm": {
-            "score": 1540000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "Wash"
+            "scorer": ""
         },
         "maze": {
-            "score": 1000000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "Baller"
+            "scorer": ""
         }
     },
     "necromancer": {
         "ffa": {
-            "score": 1780000,
+            "score": 1545222,
             "formattedDuration": "",
-            "scorer": "JB Colombia"
+            "scorer": "HZ6"
         },
         "2tdm": {
-            "score": 3610000,
+            "score": 1733450,
             "formattedDuration": "",
-            "scorer": "Saeko"
+            "scorer": "Esko"
         },
         "4tdm": {
-            "score": 3730000,
+            "score": 941850,
             "formattedDuration": "",
-            "scorer": "d2xy.0"
+            "scorer": "Kevin"
         },
         "maze": {
-            "score": 1070000,
+            "score": 982751,
             "formattedDuration": "",
-            "scorer": "Baller"
+            "scorer": "Kevin"
         }
     },
     "triple-twin": {
