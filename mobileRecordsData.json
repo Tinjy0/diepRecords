@@ -89,24 +89,24 @@
     },
     "quad-tank": {
         "ffa": {
-            "score": 1240000,
+            "score": 592248,
             "formattedDuration": "",
-            "scorer": "Alberich"
+            "scorer": "nikko"
         },
         "2tdm": {
-            "score": 1590000,
+            "score": 311738 ,
             "formattedDuration": "",
-            "scorer": "Fallen"
+            "scorer": "lord Waffle"
         },
         "4tdm": {
-            "score": 1580000,
+            "score": 1046586,
             "formattedDuration": "",
-            "scorer": "Fallen"
+            "scorer": "buh"
         },
         "maze": {
-            "score": 818000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "Astral"
+            "scorer": "0"    
         }
     },
     "octo-tank": {
