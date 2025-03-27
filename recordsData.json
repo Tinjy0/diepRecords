@@ -4,11 +4,13 @@
             "score": 1080000,
             "formattedDuration": "",
             "proofVideo": "https://youtu.be/_CpJnPT6mHc?si=xDb4ABPFOmgRuwZQ",
+            "scoredYear" : 2017,
             "scorer": "JB columbia"
         },
         "2tdm": {
-            "score": 1420327,
+            "score": 1411839,
             "formattedDuration": "",
+            "proofImages": ["https://imgur.com/utBgcoF.png"],
             "scorer": "Quarks"
         },
         "4tdm": {
