@@ -809,28 +809,6 @@
             "scorer": "exo"
         }
     },
-    "-5": {
-        "ffa": {
-            "score": 2200000,
-            "formattedDuration": "",
-            "scorer": "Unknown User☯"
-        },
-        "2tdm": {
-            "score": 2200000,
-            "formattedDuration": "",
-            "scorer": "⚡Raiden Ei⚡"
-        },
-        "4tdm": {
-            "score": 2280000,
-            "formattedDuration": "",
-            "scorer": "Peregrine"
-        },
-        "maze": {
-            "score": 1040000,
-            "formattedDuration": "",
-            "scorer": "Baller"
-        }
-    },
     "auto-3": {
         "ffa": {
             "score": 1060000,
