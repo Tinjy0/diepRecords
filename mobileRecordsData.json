@@ -3,27 +3,21 @@
         "ffa": {
             "score": 1080000,
             "formattedDuration": "",
-            "proofVideo": "https://youtu.be/_CpJnPT6mHc?si=xDb4ABPFOmgRuwZQ",
-            "year" : 2017,
             "scorer": "JB Colombia"
         },
         "2tdm": {
             "score": 1411839,
             "formattedDuration": "",
-            "proofImages": ["https://imgur.com/utBgcoF.png"],
             "scorer": "Quarks"
         },
         "4tdm": {
             "score": 1420327,
             "formattedDuration": "",
-            "proofImages": ["https://imgur.com/r5W68NO.png"],
-            "year" : 2023,
             "scorer": "Legit Developer"
         },
         "maze": {
             "score": 701000,
             "formattedDuration": "",
-            "proofImages": ["https://i.imgur.com/76hv8v8.png"],
             "scorer": "Baller"
         }
     },
@@ -36,19 +30,16 @@
         "2tdm": {
             "score": 1530000,
             "formattedDuration": "",
-            "proofImages": ["https://i.imgur.com/mxdZLqD.png"],
             "scorer": "Unknown User☯"
         },
         "4tdm": {
             "score": 1710000,
             "formattedDuration": "",
-            "proofImages": ["https://imgur.com/9VCHMEI.png"],
             "scorer": "☢"
         },
         "maze": {
             "score": 1420000,
             "formattedDuration": "",
-            "proofVideo": "https://youtu.be/zPaGvvh581Y?si=yvY7werXy0I-lao6",
             "scorer": "Kesler"
         }
     },
@@ -56,7 +47,6 @@
         "ffa": {
             "score": 2680000,
             "formattedDuration": "",
-            "proofImages": ["https://imgur.com/b3nmfte.png"],
             "scorer": "Unknown User☯"
         },
         "2tdm": {
@@ -72,7 +62,6 @@
         "maze": {
             "score": 1720000,
             "formattedDuration": "",
-            "proofImages": ["https://imgur.com/vneDuFb.png"],
             "scorer": "Kyo"
         }
     },
@@ -80,7 +69,6 @@
         "ffa": {
             "score": 1390000,
             "formattedDuration": "",
-            "proofImages": ["https://imgur.com/zMdxE0w.png"],
             "scorer": "RYS"
         },
         "2tdm": {
@@ -91,13 +79,11 @@
         "4tdm": {
             "score": 1480000,
             "formattedDuration": "",
-            "proofImages": ["https://imgur.com/uPUEfqw.png"],
             "scorer": "MG PRO"
         },
         "maze": {
             "score": 699000,
             "formattedDuration": "",
-            "proofVideo": "https://youtu.be/cUsfVQxDCX8?si=MOu043xhQBCYpCVf",
             "scorer": "xTriangleSquare"
         }
     },
@@ -105,25 +91,21 @@
         "ffa": {
             "score": 1240000,
             "formattedDuration": "",
-            "proofImages": ["https://imgur.com/l1oChaK.png"],
             "scorer": "Alberich"
         },
         "2tdm": {
             "score": 1590000,
             "formattedDuration": "",
-            "proofImages": ["https://imgur.com/hkfRf2K.png"],
             "scorer": "Fallen"
         },
         "4tdm": {
             "score": 1580000,
             "formattedDuration": "",
-            "proofImages": ["https://imgur.com/wiiTDTQ.png"],
             "scorer": "Fallen"
         },
         "maze": {
             "score": 818000,
             "formattedDuration": "",
-            "proofImages": ["https://imgur.com/mqD6Af7.png"],
             "scorer": "Astral"
         }
     },
@@ -856,26 +838,22 @@
         "auto-5": {
         "ffa": {
             "score": 2257544,
-            "formattedDuration": "",
-            "proofImages": ["https://i.imgur.com/qblCg6s.png"],            
+            "formattedDuration": "",       
             "scorer": "Unknown User☯"
         },
         "2tdm": {
             "score": 2196986,
-            "formattedDuration": "",
-            "proofImages": ["https://i.imgur.com/qcMmE35.png"],            
+            "formattedDuration": "",      
             "scorer": "⚡Raiden Ei⚡"
         },
         "4tdm": {
             "score": 2337673,
-            "formattedDuration": "",
-            "proofVideo": "https://youtu.be/DJeBBqgzUh0?si=GCLwhoaBOvqQaBAN",     
+            "formattedDuration": "", 
             "scorer": "⚡Raiden Ei⚡"
         },
         "maze": {
             "score": 2176532,
             "formattedDuration": "",
-            "proofImages": ["https://i.imgur.com/XURJe5f.png"],            
             "scorer": "Baller"
         }
     },
@@ -948,26 +926,22 @@
     "battleship": {
         "ffa": {
             "score": 1230000,
-            "formattedDuration": "",
-            "proofVideo": "https://youtu.be/DMi422FPsl8?si=ePS5qOQjbX2M3dyV",            
+            "formattedDuration": "",  
             "scorer": "Baller"
         },
         "2tdm": {
             "score": 1870000,
             "formattedDuration": "",
-            "proofVideo": "https://youtu.be/iVvfwHTP2gY?si=fnAs7jxCmeWhEQQ4",
             "scorer": "Aurora"
         },
         "4tdm": {
             "score": 1500000,
-            "formattedDuration": "",
-            "proofImages": ["https://i.imgur.com/lSDu7op.png"],            
+            "formattedDuration": "",    
             "scorer": "X-PRO"
         },
         "maze": {
             "score": 1180000,
-            "formattedDuration": "",
-            "proofImages": ["https://i.imgur.com/Oy0x2Uh.png"],                  
+            "formattedDuration": "",         
             "scorer": "Baller"
         }
     },
