@@ -121,8 +121,8 @@
             "scorer": ""
         },
         "4tdm": {
-            "score": 2610000,
-            "formattedDuration": "546381",
+            "score": 546381,
+            "formattedDuration": "",
             "scorer": "Darkforce"
         },
         "maze": {
@@ -837,19 +837,19 @@
     },
     "spread-shot": {
         "ffa": {
-            "score": 0,
+            "score": 1916506,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "HZ6"
         },
         "2tdm": {
-            "score": 0,
+            "score": 2850000,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "1mぃく"
         },
         "4tdm": {
-            "score": 0,
+            "score": 1050000,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Expert"
         },
         "maze": {
             "score": 0,
@@ -859,9 +859,9 @@
     },
     "streamliner": {
         "ffa": {
-            "score": 0,
+            "score": 1371199,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Athu"
         },
         "2tdm": {
             "score": 0,
@@ -881,9 +881,9 @@
     },
     "auto-trapper": {
         "ffa": {
-            "score": 0,
+            "score": 577584,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Athu"
         },
         "2tdm": {
             "score": 0,
@@ -891,21 +891,21 @@
             "scorer": ""
         },
         "4tdm": {
-            "score": 0,
+            "score": 301728,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Darkforce"
         },
         "maze": {
-            "score": 0,
+            "score": 586350,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "T93"
         }
     },
     "battleship": {
         "ffa": {
-            "score": 0,
+            "score": 559243,
             "formattedDuration": "",  
-            "scorer": ""
+            "scorer": "Athu"
         },
         "2tdm": {
             "score": 0,
@@ -913,9 +913,9 @@
             "scorer": ""
         },
         "4tdm": {
-            "score": 0,
+            "score": 1022942,
             "formattedDuration": "",    
-            "scorer": ""
+            "scorer": "Esko"
         },
         "maze": {
             "score": 0,
@@ -925,19 +925,19 @@
     },
     "annihilator": {
         "ffa": {
-            "score": 0,
+            "score": 1475000,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "KF-21"
         },
         "2tdm": {
-            "score": 0,
+            "score": 1394743,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Moonlight"
         },
         "4tdm": {
-            "score": 0,
+            "score": 1161789,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Pianzage"
         },
         "maze": {
             "score": 0,
