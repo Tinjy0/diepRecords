@@ -787,7 +787,7 @@
             "scorer": "Relentless"
         }
     },
-    "-gunner": {
+    "auto-gunner": {
         "ffa": {
             "score": 3150000,
             "formattedDuration": "",
