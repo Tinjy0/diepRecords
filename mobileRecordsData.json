@@ -769,26 +769,26 @@
             "scorer": ""
         }
     },
-    "-gunner": {
+    "auto-gunner": {
         "ffa": {
-            "score": 478750,
+            "score": 1375223,
             "formattedDuration": "",
-            "scorer": "VløKe"
+            "scorer": "HGBRX$!L"
         },
         "2tdm": {
-            "score": 0,
+            "score": 1000060,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "KF-21"
         },
         "4tdm": {
-            "score": 449124,
+            "score": 524277,
             "formattedDuration": "",
             "scorer": "VløKe"
         },
         "maze": {
-            "score": 310112,
+            "score": 503350,
             "formattedDuration": "",
-            "scorer": "VløKe"
+            "scorer": "Sadic Killer-EX"
         }
     },
     "auto-3": {
@@ -947,19 +947,19 @@
     },
     "auto-smasher": {
         "ffa": {
-            "score": 0,
+            "score": 1046522,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Athu"
         },
         "2tdm": {
-            "score": 0,
+            "score": 739558,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "buh"
         },
         "4tdm": {
-            "score": 0,
+            "score": 511382,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "VløKe"
         },
         "maze": {
             "score": 0,
@@ -969,14 +969,14 @@
     },
     "spike": {
         "ffa": {
-            "score": 0,
+            "score": 1474865,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Panic"
         },
         "2tdm": {
-            "score": 0,
+            "score": 1350000,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Bacteria"
         },
         "4tdm": {
             "score": 0,
@@ -991,24 +991,24 @@
     },
     "factory": {
         "ffa": {
-            "score": 0,
+            "score": 1941461,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Kevin"
         },
         "2tdm": {
-            "score": 0,
+            "score": 1003734,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "iPhoneFactory"
         },
         "4tdm": {
-            "score": 0,
+            "score": 1680316,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "iPhoneFactory"
         },
         "maze": {
-            "score": 0,
+            "score": 980090,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Kevin"
         }
     },
     "skimmer": {
