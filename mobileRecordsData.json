@@ -727,19 +727,19 @@
     },
     "smasher": {
         "ffa": {
-            "score": 0,
+            "score": 1662017,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "HZ6"
         },
         "2tdm": {
-            "score": 0,
+            "score": 583847,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "buh"
         },
         "4tdm": {
-            "score": 0,
+            "score": 913475,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Pianzage"
         },
         "maze": {
             "score": 0,
@@ -749,19 +749,19 @@
     },
     "landmine": {
         "ffa": {
-            "score": 0,
+            "score": 633311,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Turbo"
         },
         "2tdm": {
-            "score": 0,
+            "score": 1012799,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "buh"
         },
         "4tdm": {
-            "score": 0,
+            "score": 619904,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "VløKe"
         },
         "maze": {
             "score": 0,
@@ -771,9 +771,9 @@
     },
     "-gunner": {
         "ffa": {
-            "score": 0,
+            "score": 478750,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "VløKe"
         },
         "2tdm": {
             "score": 0,
@@ -781,31 +781,31 @@
             "scorer": ""
         },
         "4tdm": {
-            "score": 0,
+            "score": 449124,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "VløKe"
         },
         "maze": {
-            "score": 0,
+            "score": 310112,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "VløKe"
         }
     },
     "auto-3": {
         "ffa": {
-            "score": 0,
+            "score": 562520,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Athu"
         },
         "2tdm": {
-            "score": 0,
+            "score": 515037,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Moonlight"
         },
         "4tdm": {
-            "score": 0,
+            "score": 1168412,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "buh"
         },
         "maze": {
             "score": 0,
@@ -815,14 +815,14 @@
     },
         "auto-5": {
         "ffa": {
-            "score": 0,
+            "score": 1556726,
             "formattedDuration": "",       
-            "scorer": ""
+            "scorer": "HZ6"
         },
         "2tdm": {
-            "score": 0,
+            "score": 844850,
             "formattedDuration": "",      
-            "scorer": ""
+            "scorer": "unnamed"
         },
         "4tdm": {
             "score": 0,
