@@ -375,19 +375,19 @@
     },
     "triple-twin": {
         "ffa": {
-            "score": 0,
+            "score": 1302128,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "HZ6"
         },
         "2tdm": {
-            "score": 0,
+            "score": 505582,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "darkforce"
         },
         "4tdm": {
-            "score": 0,
+            "score": 507702,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "VløKe"
         },
         "maze": {
             "score": 0,
@@ -397,19 +397,19 @@
     },
     "hunter": {
         "ffa": {
-            "score": 0,
+            "score": 504469,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "buh"
         },
         "2tdm": {
-            "score": 0,
+            "score": 405290,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Chief Of Map"
         },
         "4tdm": {
-            "score": 0,
+            "score": 295540,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "VløKe"
         },
         "maze": {
             "score": 0,
@@ -419,9 +419,9 @@
     },
     "gunner": {
         "ffa": {
-            "score": 0,
+            "score": 478750,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "VløKe"
         },
         "2tdm": {
             "score": 0,
@@ -429,26 +429,26 @@
             "scorer": ""
         },
         "4tdm": {
-            "score": 0,
+            "score": 449124,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "VløKe"
         },
         "maze": {
-            "score": 0,
+            "score": 310112,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "VløKe"
         }
     },
     "stalker": {
         "ffa": {
-            "score": 0,
+            "score": 622913,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "buh"
         },
         "2tdm": {
-            "score": 0,
+            "score": 333831,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "VløKe"
         },
         "4tdm": {
             "score": 0,
