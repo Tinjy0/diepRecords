@@ -551,14 +551,14 @@
     },
     "manager": {
         "ffa": {
-            "score": 0,
+            "score": 1772629,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "HZ6"
         },
         "2tdm": {
-            "score": 0,
+            "score": 1502194,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Esko"
         },
         "4tdm": {
             "score": 0,
@@ -573,19 +573,19 @@
     },
     "predator": {
         "ffa": {
-            "score": 0,
+            "score": 1000000,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Prime Keenan !"
         },
         "2tdm": {
-            "score": 0,
+            "score": 1433835,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "buh"
         },
         "4tdm": {
-            "score": 0,
+            "score": 511450,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "uuu"
         },
         "maze": {
             "score": 0,
@@ -595,14 +595,14 @@
     },
     "sprayer": {
         "ffa": {
-            "score": 0,
+            "score": 2950448,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "buh"
         },
         "2tdm": {
-            "score": 0,
+            "score": 1000017,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "KF-21"
         },
         "4tdm": {
             "score": 0,
@@ -610,21 +610,21 @@
             "scorer": ""
         },
         "maze": {
-            "score": 0,
+            "score": 821650,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "unnamed"
         }
     },
     "trapper": {
         "ffa": {
-            "score": 0,
+            "score": 277650,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "nikko"
         },
         "2tdm": {
-            "score": 0,
+            "score": 297136,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "gd1v"
         },
         "4tdm": {
             "score": 0,
