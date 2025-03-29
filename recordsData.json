@@ -1,11 +1,11 @@
 {
     "basic": {
         "ffa": {
-            "score": 1080000,
+            "score": 1363307,
             "formattedDuration": "",
-            "proofVideo": "https://youtu.be/_CpJnPT6mHc?si=xDb4ABPFOmgRuwZQ",
-            "year" : 2017,
-            "scorer": "JB Colombia"
+            "proofVideo": "https://youtu.be/b9xitJeOOZI?si=_rQzobwtMAf6gW6x",
+            "year" : 2020,
+            "scorer": "Mr Cheeky"
         },
         "2tdm": {
             "score": 1411839,
@@ -139,9 +139,11 @@
             "scorer": "Boner Alert"
         },
         "4tdm": {
-            "score": 2610000,
+            "score": 3189234,
             "formattedDuration": "",
-            "scorer": "UltraXile"
+            "year" : 2022,
+            "proofVideo": "https://youtu.be/uTV8fofPmLk?si=UlNwEfk-pqYY4O2N",
+            "scorer": "lambo"
         },
         "maze": {
             "score": 1380000,
