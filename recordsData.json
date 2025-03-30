@@ -103,10 +103,11 @@
     },
     "quad-tank": {
         "ffa": {
-            "score": 1240000,
+            "score": 1339743,
             "formattedDuration": "",
-            "proofImages": ["https://imgur.com/l1oChaK.png"],
-            "scorer": "Alberich"
+            "proofImages": ["https://imgur.com/e46Sfee.png"],
+            "year" : 2022,
+            "scorer": "NadeWhyTea"
         },
         "2tdm": {
             "score": 1590000,
@@ -649,9 +650,11 @@
             "scorer": "Denied"
         },
         "4tdm": {
-            "score": 618000,
+            "score": 752407,
             "formattedDuration": "",
-            "scorer": "EF 40"
+            "proofImages": ["https://imgur.com/4s2nUwa.png"],
+            "year" : 2025,
+            "scorer": "talal"
         },
         "maze": {
             "score": 404000,
