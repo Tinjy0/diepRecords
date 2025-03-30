@@ -1111,9 +1111,11 @@
     },
     "auto-tank": {
         "ffa": {
-            "score": 394004,
+            "score": 667950,
             "formattedDuration": "",
-            "scorer": "Uad࿋"
+            "proofImages": ["https://imgur.com/eQJpVhc.png"],
+            "year" : 2025,
+            "scorer": "IHazDiepression"
         },
         "2tdm": {
             "score": 1430000,
