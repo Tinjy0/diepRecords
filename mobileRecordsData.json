@@ -1,1103 +1,1105 @@
-{
-    "basic": {
-        "ffa": {
-            "score": 694883,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "2tdm": {
-            "score": 271000,
-            "formattedDuration": "",
-            "scorer": "GlitchedMYJ"
-        },
-        "4tdm": {
-            "score": 306211,
-            "formattedDuration": "",
-            "scorer": "VløKe"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "twin": {
-        "ffa": {
-            "score": 4342580,
-            "formattedDuration": "",
-            "scorer": "HZ6"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 500000,
-            "formattedDuration": "",
-            "scorer": "II"
-        }
-    },
-    "triplet": {
-        "ffa": {
-            "score": 2537959,
-            "formattedDuration": "",
-            "scorer": "HZ6"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "triple-shot": {
-        "ffa": {
-            "score": 473502,
-            "formattedDuration": "",
-            "scorer": "lord Waffle"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "4tdm": {
-            "score": 399675,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "quad-tank": {
-        "ffa": {
-            "score": 592248,
-            "formattedDuration": "",
-            "scorer": "nikko"
-        },
-        "2tdm": {
-            "score": 311738 ,
-            "formattedDuration": "",
-            "scorer": "lord Waffle"
-        },
-        "4tdm": {
-            "score": 1046586,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""    
-        }
-    },
-    "octo-tank": {
-        "ffa": {
-            "score": 2006699,
-            "formattedDuration": "",
-            "scorer": "HZ6"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "4tdm": {
-            "score": 546381,
-            "formattedDuration": "",
-            "scorer": "Darkforce"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "sniper": {
-        "ffa": {
-            "score": 1047061,
-            "formattedDuration": "",
-            "scorer": "Pianzage"
-        },
-        "2tdm": {
-            "score": 584831,
-            "formattedDuration": "",
-            "scorer": "Fire"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "machine-gun": {
-        "ffa": {
-            "score": 1075345,
-            "formattedDuration": "",
-            "scorer": "HZ6"
-        },
-        "2tdm": {
-            "score": 530650,
-            "formattedDuration": "",
-            "scorer": "rhyming444"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "flank-guard": {
-        "ffa": {
-            "score": 1135580,
-            "formattedDuration": "",
-            "scorer": "Athu"
-        },
-        "2tdm": {
-            "score": 503748,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "4tdm": {
-            "score": 525737,
-            "formattedDuration": "",
-            "scorer": "Athu"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "tri-angle": {
-        "ffa": {
-            "score": 1752435,
-            "formattedDuration": "",
-            "scorer": "Moonlight"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "destroyer": {
-        "ffa": {
-            "score": 1006051,
-            "formattedDuration": "",
-            "scorer": "Athu"
-        },
-        "2tdm": {
-            "score": 642089,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "overseer": {
-        "ffa": {
-            "score": 1684513,
-            "formattedDuration": "",
-            "scorer": "HZ6"
-        },
-        "2tdm": {
-            "score": 907818,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "4tdm": {
-            "score": 1046923,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "overlord": {
-        "ffa": {
-            "score": 3059533,
-            "formattedDuration": "",
-            "scorer": "Moonlight"
-        },
-        "2tdm": {
-            "score": 2255767,
-            "formattedDuration": "",
-            "scorer": "HZ6"
-        },
-        "4tdm": {
-            "score": 2252359,
-            "formattedDuration": "",
-            "scorer": "gd1v"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "twin-flank": {
-        "ffa": {
-            "score": 1057688,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "2tdm": {
-            "score": 378463,
-            "formattedDuration": "",
-            "scorer": "VløKe"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "penta-shot": {
-        "ffa": {
-            "score": 2650356,
-            "formattedDuration": "",
-            "scorer": "Sterlon"
-        },
-        "2tdm": {
-            "score": 3740262,
-            "formattedDuration": "",
-            "scorer": "HZ6"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "assassin": {
-        "ffa": {
-            "score": 519436,
-            "formattedDuration": "",
-            "scorer": "Pianzage"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "necromancer": {
-        "ffa": {
-            "score": 1545222,
-            "formattedDuration": "",
-            "scorer": "HZ6"
-        },
-        "2tdm": {
-            "score": 1733450,
-            "formattedDuration": "",
-            "scorer": "Esko"
-        },
-        "4tdm": {
-            "score": 941850,
-            "formattedDuration": "",
-            "scorer": "Kevin"
-        },
-        "maze": {
-            "score": 982751,
-            "formattedDuration": "",
-            "scorer": "Kevin"
-        }
-    },
-    "triple-twin": {
-        "ffa": {
-            "score": 1302128,
-            "formattedDuration": "",
-            "scorer": "HZ6"
-        },
-        "2tdm": {
-            "score": 505582,
-            "formattedDuration": "",
-            "scorer": "darkforce"
-        },
-        "4tdm": {
-            "score": 507702,
-            "formattedDuration": "",
-            "scorer": "VløKe"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "hunter": {
-        "ffa": {
-            "score": 504469,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "2tdm": {
-            "score": 405290,
-            "formattedDuration": "",
-            "scorer": "Chief Of Map"
-        },
-        "4tdm": {
-            "score": 295540,
-            "formattedDuration": "",
-            "scorer": "VløKe"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "gunner": {
-        "ffa": {
-            "score": 478750,
-            "formattedDuration": "",
-            "scorer": "VløKe"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "4tdm": {
-            "score": 449124,
-            "formattedDuration": "",
-            "scorer": "VløKe"
-        },
-        "maze": {
-            "score": 310112,
-            "formattedDuration": "",
-            "scorer": "VløKe"
-        }
-    },
-    "stalker": {
-        "ffa": {
-            "score": 622913,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "2tdm": {
-            "score": 333831,
-            "formattedDuration": "",
-            "scorer": "VløKe"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "ranger": {
-        "ffa": {
-            "score": 502882,
-            "formattedDuration": "",
-            "scorer": "Esko"
-        },
-        "2tdm": {
-            "score": 1009609,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "booster": {
-        "ffa": {
-            "score": 1250003,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "4tdm": {
-            "score": 1053714,
-            "formattedDuration": "",
-            "scorer": "Pianzage"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "fighter": {
-        "ffa": {
-            "score": 2164389,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "2tdm": {
-            "score": 2716557,
-            "formattedDuration": "",
-            "scorer": "Sterlon"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "hybrid": {
-        "ffa": {
-            "score": 1240844,
-            "formattedDuration": "",
-            "scorer": "FlareYT"
-        },
-        "2tdm": {
-            "score": 1050000,
-            "formattedDuration": "",
-            "scorer": "unnamed"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "manager": {
-        "ffa": {
-            "score": 1772629,
-            "formattedDuration": "",
-            "scorer": "HZ6"
-        },
-        "2tdm": {
-            "score": 1502194,
-            "formattedDuration": "",
-            "scorer": "Esko"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "predator": {
-        "ffa": {
-            "score": 1000000,
-            "formattedDuration": "",
-            "scorer": "Prime Keenan !"
-        },
-        "2tdm": {
-            "score": 1433835,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "4tdm": {
-            "score": 511450,
-            "formattedDuration": "",
-            "scorer": "uuu"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "sprayer": {
-        "ffa": {
-            "score": 2950448,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "2tdm": {
-            "score": 1000017,
-            "formattedDuration": "",
-            "scorer": "KF-21"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 821650,
-            "formattedDuration": "",
-            "scorer": "unnamed"
-        }
-    },
-    "trapper": {
-        "ffa": {
-            "score": 277650,
-            "formattedDuration": "",
-            "scorer": "nikko"
-        },
-        "2tdm": {
-            "score": 297136,
-            "formattedDuration": "",
-            "scorer": "gd1v"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "gunner-trapper": {
-        "ffa": {
-            "score": 1040595,
-            "formattedDuration": "",
-            "scorer": "Cøld 🥶"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "overtrapper": {
-        "ffa": {
-            "score": 459413,
-            "formattedDuration": "",
-            "proofImages": ["https://imgur.com/a/TOJhfrE"],
-            "scorer": "GLITCHER TM"
-        },
-        "2tdm": {
-            "score": 487492,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "mega-trapper": {
-        "ffa": {
-            "score": 415239,
-            "formattedDuration": "",
-            "scorer": "Kevin"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "tri-trapper": {
-        "ffa": {
-            "score": 853028,
-            "formattedDuration": "",
-            "scorer": "gd1v"
-        },
-        "2tdm": {
-            "score": 533331,
-            "formattedDuration": "",
-            "scorer": "gd1v"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "smasher": {
-        "ffa": {
-            "score": 1662017,
-            "formattedDuration": "",
-            "scorer": "HZ6"
-        },
-        "2tdm": {
-            "score": 583847,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "4tdm": {
-            "score": 913475,
-            "formattedDuration": "",
-            "scorer": "Pianzage"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "landmine": {
-        "ffa": {
-            "score": 633311,
-            "formattedDuration": "",
-            "scorer": "Turbo"
-        },
-        "2tdm": {
-            "score": 1012799,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "4tdm": {
-            "score": 619904,
-            "formattedDuration": "",
-            "scorer": "VløKe"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "auto-gunner": {
-        "ffa": {
-            "score": 1375223,
-            "formattedDuration": "",
-            "scorer": "HGBRX$!L"
-        },
-        "2tdm": {
-            "score": 1000060,
-            "formattedDuration": "",
-            "scorer": "KF-21"
-        },
-        "4tdm": {
-            "score": 524277,
-            "formattedDuration": "",
-            "scorer": "VløKe"
-        },
-        "maze": {
-            "score": 503350,
-            "formattedDuration": "",
-            "scorer": "Sadic Killer-EX"
-        }
-    },
-    "auto-3": {
-        "ffa": {
-            "score": 562520,
-            "formattedDuration": "",
-            "scorer": "Athu"
-        },
-        "2tdm": {
-            "score": 515037,
-            "formattedDuration": "",
-            "scorer": "Moonlight"
-        },
-        "4tdm": {
-            "score": 1168412,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-        "auto-5": {
-        "ffa": {
-            "score": 1556726,
-            "formattedDuration": "",       
-            "scorer": "HZ6"
-        },
-        "2tdm": {
-            "score": 844850,
-            "formattedDuration": "",      
-            "scorer": "unnamed"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "", 
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "spread-shot": {
-        "ffa": {
-            "score": 1916506,
-            "formattedDuration": "",
-            "scorer": "HZ6"
-        },
-        "2tdm": {
-            "score": 2850000,
-            "formattedDuration": "",
-            "scorer": "1mぃく"
-        },
-        "4tdm": {
-            "score": 1050000,
-            "formattedDuration": "",
-            "scorer": "Expert"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "streamliner": {
-        "ffa": {
-            "score": 1371199,
-            "formattedDuration": "",
-            "scorer": "Athu"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "auto-trapper": {
-        "ffa": {
-            "score": 577584,
-            "formattedDuration": "",
-            "scorer": "Athu"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "4tdm": {
-            "score": 301728,
-            "formattedDuration": "",
-            "scorer": "Darkforce"
-        },
-        "maze": {
-            "score": 586350,
-            "formattedDuration": "",
-            "scorer": "T93"
-        }
-    },
-    "battleship": {
-        "ffa": {
-            "score": 559243,
-            "formattedDuration": "",  
-            "scorer": "Athu"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "4tdm": {
-            "score": 1022942,
-            "formattedDuration": "",    
-            "scorer": "Esko"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",         
-            "scorer": ""
-        }
-    },
-    "annihilator": {
-        "ffa": {
-            "score": 1475000,
-            "formattedDuration": "",
-            "scorer": "KF-21"
-        },
-        "2tdm": {
-            "score": 1394743,
-            "formattedDuration": "",
-            "scorer": "Moonlight"
-        },
-        "4tdm": {
-            "score": 1161789,
-            "formattedDuration": "",
-            "scorer": "Pianzage"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "auto-smasher": {
-        "ffa": {
-            "score": 1046522,
-            "formattedDuration": "",
-            "scorer": "Athu"
-        },
-        "2tdm": {
-            "score": 739558,
-            "formattedDuration": "",
-            "scorer": "buh"
-        },
-        "4tdm": {
-            "score": 511382,
-            "formattedDuration": "",
-            "scorer": "VløKe"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "spike": {
-        "ffa": {
-            "score": 1474865,
-            "formattedDuration": "",
-            "scorer": "Panic"
-        },
-        "2tdm": {
-            "score": 1350000,
-            "formattedDuration": "",
-            "scorer": "Bacteria"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "factory": {
-        "ffa": {
-            "score": 1941461,
-            "formattedDuration": "",
-            "scorer": "Kevin"
-        },
-        "2tdm": {
-            "score": 1003734,
-            "formattedDuration": "",
-            "scorer": "iPhoneFactory"
-        },
-        "4tdm": {
-            "score": 1680316,
-            "formattedDuration": "",
-            "scorer": "iPhoneFactory"
-        },
-        "maze": {
-            "score": 980090,
-            "formattedDuration": "",
-            "scorer": "Kevin"
-        }
-    },
-    "skimmer": {
-        "ffa": {
-            "score": 675554,
-            "formattedDuration": "",
-            "scorer": "nikko"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "rocketeer": {
-        "ffa": {
-            "score": 1160322,
-            "formattedDuration": "",
-            "scorer": "HZ6"
-        },
-        "2tdm": {
-            "score": 2006318,
-            "formattedDuration": "",
-            "scorer": "gd1v"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "glider": {
-        "ffa": {
-            "score": 2078510,
-            "formattedDuration": "",
-            "scorer": "HZ6"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        }
-    },
-    "auto-tank": {
-        "ffa": {
-            "score": 1085552,
-            "formattedDuration": "",
-            "scorer": "Athu"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": ""
+    {
+        "basic": {
+            "ffa": {
+                "score": 694883,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "2tdm": {
+                "score": 271000,
+                "formattedDuration": "",
+                "scorer": "GlitchedMYJ"
+            },
+            "4tdm": {
+                "score": 306211,
+                "formattedDuration": "",
+                "scorer": "VløKe"
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "twin": {
+            "ffa": {
+                "score": 4342580,
+                "formattedDuration": "",
+                "scorer": "HZ6"
+            },
+            "2tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 500000,
+                "formattedDuration": "",
+                "scorer": "II"
+            }
+        },
+        "triplet": {
+            "ffa": {
+                "score": 2537959,
+                "formattedDuration": "",
+                "scorer": "HZ6"
+            },
+            "2tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "triple-shot": {
+            "ffa": {
+                "score": 473502,
+                "formattedDuration": "",
+                "scorer": "lord Waffle"
+            },
+            "2tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "4tdm": {
+                "score": 399675,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "quad-tank": {
+            "ffa": {
+                "score": 592248,
+                "formattedDuration": "",
+                "scorer": "nikko"
+            },
+            "2tdm": {
+                "score": 311738 ,
+                "formattedDuration": "",
+                "scorer": "lord Waffle"
+            },
+            "4tdm": {
+                "score": 1046586,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""    
+            }
+        },
+        "octo-tank": {
+            "ffa": {
+                "score": 2006699,
+                "formattedDuration": "",
+                "scorer": "HZ6"
+            },
+            "2tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "4tdm": {
+                "score": 546381,
+                "formattedDuration": "",
+                "scorer": "Darkforce"
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "sniper": {
+            "ffa": {
+                "score": 1047061,
+                "formattedDuration": "",
+                "scorer": "Pianzage"
+            },
+            "2tdm": {
+                "score": 584831,
+                "formattedDuration": "",
+                "scorer": "Fire"
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "machine-gun": {
+            "ffa": {
+                "score": 1075345,
+                "formattedDuration": "",
+                "scorer": "HZ6"
+            },
+            "2tdm": {
+                "score": 530650,
+                "formattedDuration": "",
+                "scorer": "rhyming444"
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "flank-guard": {
+            "ffa": {
+                "score": 1135580,
+                "formattedDuration": "",
+                "scorer": "Athu"
+            },
+            "2tdm": {
+                "score": 503748,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "4tdm": {
+                "score": 525737,
+                "formattedDuration": "",
+                "scorer": "Athu"
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "tri-angle": {
+            "ffa": {
+                "score": 1752435,
+                "formattedDuration": "",
+                "scorer": "Moonlight"
+            },
+            "2tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "destroyer": {
+            "ffa": {
+                "score": 1006051,
+                "formattedDuration": "",
+                "scorer": "Athu"
+            },
+            "2tdm": {
+                "score": 642089,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "overseer": {
+            "ffa": {
+                "score": 1684513,
+                "formattedDuration": "",
+                "scorer": "HZ6"
+            },
+            "2tdm": {
+                "score": 907818,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "4tdm": {
+                "score": 1046923,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "overlord": {
+            "ffa": {
+                "score": 3059533,
+                "formattedDuration": "",
+                "scorer": "Moonlight"
+            },
+            "2tdm": {
+                "score": 2255767,
+                "formattedDuration": "",
+                "scorer": "HZ6"
+            },
+            "4tdm": {
+                "score": 2252359,
+                "formattedDuration": "",
+                "scorer": "gd1v"
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "twin-flank": {
+            "ffa": {
+                "score": 1057688,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "2tdm": {
+                "score": 378463,
+                "formattedDuration": "",
+                "scorer": "VløKe"
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "penta-shot": {
+            "ffa": {
+                "score": 2650356,
+                "formattedDuration": "",
+                "scorer": "Sterlon"
+            },
+            "2tdm": {
+                "score": 3740262,
+                "formattedDuration": "",
+                "scorer": "HZ6"
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "assassin": {
+            "ffa": {
+                "score": 519436,
+                "formattedDuration": "",
+                "scorer": "Pianzage"
+            },
+            "2tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "necromancer": {
+            "ffa": {
+                "score": 1545222,
+                "formattedDuration": "",
+                "scorer": "HZ6"
+            },
+            "2tdm": {
+                "score": 1733450,
+                "formattedDuration": "",
+                "scorer": "Esko"
+            },
+            "4tdm": {
+                "score": 941850,
+                "formattedDuration": "",
+                "scorer": "Kevin"
+            },
+            "maze": {
+                "score": 982751,
+                "formattedDuration": "",
+                "scorer": "Kevin"
+            }
+        },
+        "triple-twin": {
+            "ffa": {
+                "score": 1302128,
+                "formattedDuration": "",
+                "scorer": "HZ6"
+            },
+            "2tdm": {
+                "score": 505582,
+                "formattedDuration": "",
+                "scorer": "darkforce"
+            },
+            "4tdm": {
+                "score": 507702,
+                "formattedDuration": "",
+                "scorer": "VløKe"
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "hunter": {
+            "ffa": {
+                "score": 504469,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "2tdm": {
+                "score": 405290,
+                "formattedDuration": "",
+                "scorer": "Chief Of Map"
+            },
+            "4tdm": {
+                "score": 295540,
+                "formattedDuration": "",
+                "scorer": "VløKe"
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "gunner": {
+            "ffa": {
+                "score": 634836,
+                "year" : 2025,
+                "formattedDuration": "",
+                "proofVideo": "https://youtu.be/dQw4w9WgXcQ?si=fSlEVznipWNGl8CS",
+                "scorer": "GLITCHER TM"
+            },
+            "2tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "4tdm": {
+                "score": 449124,
+                "formattedDuration": "",
+                "scorer": "VløKe"
+            },
+            "maze": {
+                "score": 310112,
+                "formattedDuration": "",
+                "scorer": "VløKe"
+            }
+        },
+        "stalker": {
+            "ffa": {
+                "score": 622913,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "2tdm": {
+                "score": 333831,
+                "formattedDuration": "",
+                "scorer": "VløKe"
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "ranger": {
+            "ffa": {
+                "score": 502882,
+                "formattedDuration": "",
+                "scorer": "Esko"
+            },
+            "2tdm": {
+                "score": 1009609,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "booster": {
+            "ffa": {
+                "score": 1250003,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "2tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "4tdm": {
+                "score": 1053714,
+                "formattedDuration": "",
+                "scorer": "Pianzage"
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "fighter": {
+            "ffa": {
+                "score": 2164389,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "2tdm": {
+                "score": 2716557,
+                "formattedDuration": "",
+                "scorer": "Sterlon"
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "hybrid": {
+            "ffa": {
+                "score": 1240844,
+                "formattedDuration": "",
+                "scorer": "FlareYT"
+            },
+            "2tdm": {
+                "score": 1050000,
+                "formattedDuration": "",
+                "scorer": "unnamed"
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "manager": {
+            "ffa": {
+                "score": 1772629,
+                "formattedDuration": "",
+                "scorer": "HZ6"
+            },
+            "2tdm": {
+                "score": 1502194,
+                "formattedDuration": "",
+                "scorer": "Esko"
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "predator": {
+            "ffa": {
+                "score": 1000000,
+                "formattedDuration": "",
+                "scorer": "Prime Keenan !"
+            },
+            "2tdm": {
+                "score": 1433835,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "4tdm": {
+                "score": 511450,
+                "formattedDuration": "",
+                "scorer": "uuu"
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "sprayer": {
+            "ffa": {
+                "score": 2950448,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "2tdm": {
+                "score": 1000017,
+                "formattedDuration": "",
+                "scorer": "KF-21"
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 821650,
+                "formattedDuration": "",
+                "scorer": "unnamed"
+            }
+        },
+        "trapper": {
+            "ffa": {
+                "score": 277650,
+                "formattedDuration": "",
+                "scorer": "nikko"
+            },
+            "2tdm": {
+                "score": 297136,
+                "formattedDuration": "",
+                "scorer": "gd1v"
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "gunner-trapper": {
+            "ffa": {
+                "score": 1040595,
+                "formattedDuration": "",
+                "scorer": "Cøld 🥶"
+            },
+            "2tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "overtrapper": {
+            "ffa": {
+                "score": 459413,
+                "formattedDuration": "",
+                "proofImages": ["https://imgur.com/a/TOJhfrE"],
+                "scorer": "GLITCHER TM"
+            },
+            "2tdm": {
+                "score": 487492,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "mega-trapper": {
+            "ffa": {
+                "score": 415239,
+                "formattedDuration": "",
+                "scorer": "Kevin"
+            },
+            "2tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "tri-trapper": {
+            "ffa": {
+                "score": 853028,
+                "formattedDuration": "",
+                "scorer": "gd1v"
+            },
+            "2tdm": {
+                "score": 533331,
+                "formattedDuration": "",
+                "scorer": "gd1v"
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "smasher": {
+            "ffa": {
+                "score": 1662017,
+                "formattedDuration": "",
+                "scorer": "HZ6"
+            },
+            "2tdm": {
+                "score": 583847,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "4tdm": {
+                "score": 913475,
+                "formattedDuration": "",
+                "scorer": "Pianzage"
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "landmine": {
+            "ffa": {
+                "score": 633311,
+                "formattedDuration": "",
+                "scorer": "Turbo"
+            },
+            "2tdm": {
+                "score": 1012799,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "4tdm": {
+                "score": 619904,
+                "formattedDuration": "",
+                "scorer": "VløKe"
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "auto-gunner": {
+            "ffa": {
+                "score": 1375223,
+                "formattedDuration": "",
+                "scorer": "HGBRX$!L"
+            },
+            "2tdm": {
+                "score": 1000060,
+                "formattedDuration": "",
+                "scorer": "KF-21"
+            },
+            "4tdm": {
+                "score": 524277,
+                "formattedDuration": "",
+                "scorer": "VløKe"
+            },
+            "maze": {
+                "score": 503350,
+                "formattedDuration": "",
+                "scorer": "Sadic Killer-EX"
+            }
+        },
+        "auto-3": {
+            "ffa": {
+                "score": 562520,
+                "formattedDuration": "",
+                "scorer": "Athu"
+            },
+            "2tdm": {
+                "score": 515037,
+                "formattedDuration": "",
+                "scorer": "Moonlight"
+            },
+            "4tdm": {
+                "score": 1168412,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+            "auto-5": {
+            "ffa": {
+                "score": 1556726,
+                "formattedDuration": "",       
+                "scorer": "HZ6"
+            },
+            "2tdm": {
+                "score": 844850,
+                "formattedDuration": "",      
+                "scorer": "unnamed"
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "", 
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "spread-shot": {
+            "ffa": {
+                "score": 1916506,
+                "formattedDuration": "",
+                "scorer": "HZ6"
+            },
+            "2tdm": {
+                "score": 2850000,
+                "formattedDuration": "",
+                "scorer": "1mぃく"
+            },
+            "4tdm": {
+                "score": 1050000,
+                "formattedDuration": "",
+                "scorer": "Expert"
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "streamliner": {
+            "ffa": {
+                "score": 1371199,
+                "formattedDuration": "",
+                "scorer": "Athu"
+            },
+            "2tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "auto-trapper": {
+            "ffa": {
+                "score": 577584,
+                "formattedDuration": "",
+                "scorer": "Athu"
+            },
+            "2tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "4tdm": {
+                "score": 301728,
+                "formattedDuration": "",
+                "scorer": "Darkforce"
+            },
+            "maze": {
+                "score": 586350,
+                "formattedDuration": "",
+                "scorer": "T93"
+            }
+        },
+        "battleship": {
+            "ffa": {
+                "score": 559243,
+                "formattedDuration": "",  
+                "scorer": "Athu"
+            },
+            "2tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "4tdm": {
+                "score": 1022942,
+                "formattedDuration": "",    
+                "scorer": "Esko"
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",         
+                "scorer": ""
+            }
+        },
+        "annihilator": {
+            "ffa": {
+                "score": 1475000,
+                "formattedDuration": "",
+                "scorer": "KF-21"
+            },
+            "2tdm": {
+                "score": 1394743,
+                "formattedDuration": "",
+                "scorer": "Moonlight"
+            },
+            "4tdm": {
+                "score": 1161789,
+                "formattedDuration": "",
+                "scorer": "Pianzage"
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "auto-smasher": {
+            "ffa": {
+                "score": 1046522,
+                "formattedDuration": "",
+                "scorer": "Athu"
+            },
+            "2tdm": {
+                "score": 739558,
+                "formattedDuration": "",
+                "scorer": "buh"
+            },
+            "4tdm": {
+                "score": 511382,
+                "formattedDuration": "",
+                "scorer": "VløKe"
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "spike": {
+            "ffa": {
+                "score": 1474865,
+                "formattedDuration": "",
+                "scorer": "Panic"
+            },
+            "2tdm": {
+                "score": 1350000,
+                "formattedDuration": "",
+                "scorer": "Bacteria"
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "factory": {
+            "ffa": {
+                "score": 1941461,
+                "formattedDuration": "",
+                "scorer": "Kevin"
+            },
+            "2tdm": {
+                "score": 1003734,
+                "formattedDuration": "",
+                "scorer": "iPhoneFactory"
+            },
+            "4tdm": {
+                "score": 1680316,
+                "formattedDuration": "",
+                "scorer": "iPhoneFactory"
+            },
+            "maze": {
+                "score": 980090,
+                "formattedDuration": "",
+                "scorer": "Kevin"
+            }
+        },
+        "skimmer": {
+            "ffa": {
+                "score": 675554,
+                "formattedDuration": "",
+                "scorer": "nikko"
+            },
+            "2tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "rocketeer": {
+            "ffa": {
+                "score": 1160322,
+                "formattedDuration": "",
+                "scorer": "HZ6"
+            },
+            "2tdm": {
+                "score": 2006318,
+                "formattedDuration": "",
+                "scorer": "gd1v"
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "glider": {
+            "ffa": {
+                "score": 2078510,
+                "formattedDuration": "",
+                "scorer": "HZ6"
+            },
+            "2tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
+        },
+        "auto-tank": {
+            "ffa": {
+                "score": 1085552,
+                "formattedDuration": "",
+                "scorer": "Athu"
+            },
+            "2tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "4tdm": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            },
+            "maze": {
+                "score": 0,
+                "formattedDuration": "",
+                "scorer": ""
+            }
         }
     }
-}
