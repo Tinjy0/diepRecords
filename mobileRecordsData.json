@@ -38,9 +38,9 @@
                 "scorer": ""
             },
             "maze": {
-                "score": 500000,
+                "score": 0,
                 "formattedDuration": "",
-                "scorer": "II"
+                "scorer": ""
             }
         },
         "triplet": {
@@ -160,9 +160,9 @@
                 "scorer": "HZ6"
             },
             "2tdm": {
-                "score": 530650,
+                "score": 0,
                 "formattedDuration": "",
-                "scorer": "rhyming444"
+                "scorer": ""
             },
             "4tdm": {
                 "score": 0,
@@ -297,9 +297,9 @@
                 "scorer": "VløKe"
             },
             "4tdm": {
-                "score": 0,
+                "score": 257139,
                 "formattedDuration": "",
-                "scorer": ""
+                "scorer": "VløKe"
             },
             "maze": {
                 "score": 0,
@@ -453,9 +453,9 @@
                 "scorer": "VløKe"
             },
             "4tdm": {
-                "score": 0,
+                "score": 1000489,
                 "formattedDuration": "",
-                "scorer": ""
+                "scorer": "buh"
             },
             "maze": {
                 "score": 0,
@@ -536,9 +536,9 @@
                 "scorer": "FlareYT"
             },
             "2tdm": {
-                "score": 1050000,
+                "score": 0,
                 "formattedDuration": "",
-                "scorer": "unnamed"
+                "scorer": ""
             },
             "4tdm": {
                 "score": 0,
@@ -575,9 +575,9 @@
         },
         "predator": {
             "ffa": {
-                "score": 1000000,
+                "score": 0,
                 "formattedDuration": "",
-                "scorer": "Prime Keenan !"
+                "scorer": ""
             },
             "2tdm": {
                 "score": 1433835,
@@ -612,9 +612,9 @@
                 "scorer": ""
             },
             "maze": {
-                "score": 821650,
+                "score": 0,
                 "formattedDuration": "",
-                "scorer": "unnamed"
+                "scorer": ""
             }
         },
         "trapper": {
@@ -789,9 +789,9 @@
                 "scorer": "VløKe"
             },
             "maze": {
-                "score": 503350,
+                "score": 0,
                 "formattedDuration": "",
-                "scorer": "Sadic Killer-EX"
+                "scorer": ""
             }
         },
         "auto-3": {
@@ -823,9 +823,9 @@
                 "scorer": "HZ6"
             },
             "2tdm": {
-                "score": 844850,
+                "score": 0,
                 "formattedDuration": "",      
-                "scorer": "unnamed"
+                "scorer": ""
             },
             "4tdm": {
                 "score": 0,
@@ -850,9 +850,9 @@
                 "scorer": "1mぃく"
             },
             "4tdm": {
-                "score": 1050000,
+                "score": 0,
                 "formattedDuration": "",
-                "scorer": "Expert"
+                "scorer": ""
             },
             "maze": {
                 "score": 0,
@@ -899,9 +899,9 @@
                 "scorer": "Darkforce"
             },
             "maze": {
-                "score": 586350,
+                "score": 0,
                 "formattedDuration": "",
-                "scorer": "T93"
+                "scorer": ""
             }
         },
         "battleship": {
