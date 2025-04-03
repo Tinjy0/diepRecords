@@ -1123,8 +1123,14 @@
             "scorer": "IHazDiepression"
         },
         "2tdm": {
-            "score": 1430000,
+            "score": 1426643,
             "formattedDuration": "",
+            "proofImages": [
+                              "https://ik.imagekit.io/hxvezoqrx/WR%20Proofs/Auto%20Tank/2TDM/1.png?updatedAt=1743686766316",
+                              "https://ik.imagekit.io/hxvezoqrx/WR%20Proofs/Auto%20Tank/2TDM/2.png?updatedAt=1743686766412",
+                              "https://ik.imagekit.io/hxvezoqrx/WR%20Proofs/Auto%20Tank/2TDM/autotankwr.png?updatedAt=1743686629362"
+                           ],
+            "year" : 2025,
             "scorer": "LimX"
         },
         "4tdm": {
