@@ -846,25 +846,29 @@
         "ffa": {
             "score": 2257544,
             "formattedDuration": "",
-            "proofImages": ["https://i.imgur.com/qblCg6s.png"],            
+            "proofImages": ["https://i.imgur.com/qblCg6s.png"],
+            "year" : 2018,
             "scorer": "Unknown User☯"
         },
         "2tdm": {
             "score": 2196986,
             "formattedDuration": "",
-            "proofImages": ["https://i.imgur.com/qcMmE35.png"],            
+            "proofImages": ["https://i.imgur.com/qcMmE35.png"],
+            "year" : 2025,
             "scorer": "⚡Raiden Ei⚡"
         },
         "4tdm": {
             "score": 2337673,
             "formattedDuration": "",
-            "proofVideo": "https://youtu.be/DJeBBqgzUh0?si=GCLwhoaBOvqQaBAN",     
+            "proofVideo": "https://youtu.be/DJeBBqgzUh0?si=GCLwhoaBOvqQaBAN",
+            "year" : 2025,
             "scorer": "⚡Raiden Ei⚡"
         },
         "maze": {
-            "score": 2176532,
+            "score": 1035823,
             "formattedDuration": "",
-            "proofImages": ["https://i.imgur.com/XURJe5f.png"],            
+            "proofImages": ["https://i.imgur.com/XURJe5f.png"],
+            "year" : 2018,
             "scorer": "Baller"
         }
     },
