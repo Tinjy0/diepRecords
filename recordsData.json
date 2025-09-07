@@ -1117,9 +1117,10 @@
             "scorer": "Legit Developer"
         },
         "maze": {
-            "score": 48388,
+            "score": 605482,
             "formattedDuration": "",
-            "scorer": "hades"
+            "scorer": "Deception",
+            "proofVideo": "https://www.youtube.com/watch?v=7SDPP7eAYK8"
         }
     },
     "auto-tank": {
@@ -1147,3 +1148,4 @@
         }
     }
 }
+
