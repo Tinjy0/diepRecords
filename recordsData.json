@@ -741,9 +741,9 @@
             "scorer": "Emerson"
         },
         "2tdm": {
-            "score": 1010000,
+            "score": 1123032,
             "formattedDuration": "",
-            "scorer": "Imagine"
+            "scorer": "LK2410"
         },
         "4tdm": {
             "score": 1030000,
@@ -1148,4 +1148,5 @@
         }
     }
 }
+
 
