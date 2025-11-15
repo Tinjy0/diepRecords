@@ -954,10 +954,9 @@
             "scorer": "Aurora"
         },
         "4tdm": {
-            "score": 1500000,
+            "score": 1553236,
             "formattedDuration": "",
-            "proofImages": ["https://i.imgur.com/lSDu7op.png"],            
-            "scorer": "X-PRO"
+            "scorer": "LK2410"
         },
         "maze": {
             "score": 1180000,
@@ -1148,5 +1147,6 @@
         }
     }
 }
+
 
 
