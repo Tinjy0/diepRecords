@@ -607,9 +607,9 @@
             "scorer": "Unnamed sniper"
         },
         "2tdm": {
-            "score": 4042797,
+            "score": 4510146,
             "formattedDuration": "",
-            "scorer": "Proxy"
+            "scorer": "Grims"
         },
         "4tdm": {
             "score": 4300000,
@@ -1147,6 +1147,7 @@
         }
     }
 }
+
 
 
 
