@@ -942,10 +942,10 @@
     },
     "battleship": {
         "ffa": {
-            "score": 1230000,
+            "score": 1245052,
             "formattedDuration": "",
-            "proofVideo": "https://youtu.be/DMi422FPsl8?si=ePS5qOQjbX2M3dyV",            
-            "scorer": "Baller"
+            "proofVideo": "",            
+            "scorer": "LK2410"
         },
         "2tdm": {
             "score": 1870000,
@@ -1147,6 +1147,7 @@
         }
     }
 }
+
 
 
 
