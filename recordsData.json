@@ -1132,7 +1132,7 @@
         "2tdm": {
             "score": 0,
             "formattedDuration": "",
-            "scorer": "Minimum 500,000 Required"
+            "scorer": "Minimum 5,000,000 Required"
         },
         "4tdm": {
             "score": 1350000,
@@ -1146,6 +1146,7 @@
         }
     }
 }
+
 
 
 
