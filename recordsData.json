@@ -1101,11 +1101,11 @@
     },
     "glider": {
         "ffa": {
-            "score": 803834,
+            "score": 1441057,
             "formattedDuration": "",
-            "proofVideo": "https://youtu.be/qEQo99QOVIA?si=qT4XlUInGpX-qpXy",
-            "year" : 2023,
-            "scorer": "Astral"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1281449393811357768/1.44m_glider.png?ex=6954923f&is=695340bf&hm=9fa1ee1351084e0283ba4469e49dfff348dbe06c2e7098929faed9e9e859e952&=&format=webp&quality=lossless&width=1376&height=774"],
+            "year" : 2024,
+            "scorer": "Euphyllia"
         },
         "2tdm": {
             "score": 0,
@@ -1148,6 +1148,7 @@
         }
     }
 }
+
 
 
 
