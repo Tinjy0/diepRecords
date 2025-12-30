@@ -542,9 +542,10 @@
             "scorer": "Souka"
         },
         "2tdm": {
-            "score": 3020000,
+            "score": 3300014,
             "formattedDuration": "",
-            "scorer": "Dragonis"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1308698019683766293/3.3m.png?ex=6954d302&is=69538182&hm=335364468f03e0bba04109c9d1fccef3fb1fd2fd823dec36da8eb0de784c8002&=&format=webp&quality=lossless&width=1376&height=774"],
+            "scorer": "angle"
         },
         "4tdm": {
             "score": 3448415,
@@ -1154,6 +1155,7 @@
         }
     }
 }
+
 
 
 
