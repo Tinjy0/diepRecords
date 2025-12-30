@@ -1109,9 +1109,9 @@
             "scorer": "Euphyllia"
         },
         "2tdm": {
-            "score": 0,
+            "score": 1,000,000,000,
             "formattedDuration": "",
-            "scorer": "Minimum 500,000 Required"
+            "scorer": "Shushy shush shush"
         },
         "4tdm": {
             "score": 1194548,
@@ -1149,6 +1149,7 @@
         }
     }
 }
+
 
 
 
