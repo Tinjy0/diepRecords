@@ -718,9 +718,10 @@
     },
     "mega-trapper": {
         "ffa": {
-            "score": 505000,
+            "score": 560643,
             "formattedDuration": "",
-            "scorer": "Stradpult"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1305961623919529994/cachedImage.png?ex=6954c1ca&is=6953704a&hm=487b607145e9b1acf967628257bdd3bc2209d15223ebe4e472f3cb3a3ee1329a&=&format=webp&quality=lossless&width=1376&height=774"],
+            "scorer": "PEANUT BUTTER"
         },
         "2tdm": {
             "score": 1090000,
@@ -1153,6 +1154,7 @@
         }
     }
 }
+
 
 
 
