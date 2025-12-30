@@ -703,8 +703,9 @@
             "scorer": "Mohsen"
         },
         "2tdm": {
-            "score": 1200000,
+            "score": 1207833,
             "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1340109333958230086/image.png?ex=69550f53&is=6953bdd3&hm=9f8a5cf6a79f0c4339338d641d87cf0d78dafab1f242e8c97e44fc558919f26b&=&format=webp&quality=lossless&width=1376&height=774"],
             "scorer": "Deception"
         },
         "4tdm": {
@@ -1158,6 +1159,7 @@
         }
     }
 }
+
 
 
 
