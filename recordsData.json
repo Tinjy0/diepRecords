@@ -545,8 +545,9 @@
             "scorer": "Dragonis"
         },
         "4tdm": {
-            "score": 3230000,
+            "score": 3448415,
             "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1281793302932488193/image.png?ex=69548109&is=69532f89&hm=aa34bd2a221127fe4b66d45cb2b497ab704259b0abe2155512a942f9521361d6&=&format=webp&quality=lossless&width=1307&height=735"],
             "scorer": "Legit Developer"
         },
         "maze": {
@@ -1148,6 +1149,7 @@
         }
     }
 }
+
 
 
 
