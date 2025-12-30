@@ -1140,9 +1140,10 @@
             "scorer": "uad࿋"
         },
         "2tdm": {
-            "score": 0,
+            "score": 1426643,
             "formattedDuration": "",
-            "scorer": "Minimum 500,000 Required"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1339382303863865447/Capturar.PNG?ex=69550d39&is=6953bbb9&hm=f9c50b534bb6bb941b73d9dfec9360778137de91ad06b55f71d11aedd2aad4c9&=&format=webp&quality=lossless"],
+            "scorer": "LimX"
         },
         "4tdm": {
             "score": 1350000,
@@ -1156,6 +1157,7 @@
         }
     }
 }
+
 
 
 
