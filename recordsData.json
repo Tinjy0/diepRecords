@@ -937,6 +937,7 @@
         "2tdm": {
             "score": 2024287,
             "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/836739939936894996/1352389013054558298/image.png?ex=6954e8aa&is=6953972a&hm=6dcfa0a1bd057cf9e7d0be9b845d7cb3866bfc3bd7530f285b28f39accdedb90&=&format=webp&quality=lossless&width=1376&height=774"],
             "scorer": "Hades"
         },
         "4tdm": {
@@ -1159,6 +1160,7 @@
         }
     }
 }
+
 
 
 
