@@ -86,6 +86,7 @@
         "2tdm": {
             "score": 1960000,
             "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1299216343735992361/image.png?ex=69549b82&is=69534a02&hm=8d44b857270029c1a585af9b42a97900290226f5bd6e5d0279ae0b050396a0a6&=&format=webp&quality=lossless"],
             "scorer": "i'm back"
         },
         "4tdm": {
@@ -1150,6 +1151,7 @@
         }
     }
 }
+
 
 
 
