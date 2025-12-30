@@ -892,6 +892,7 @@
         "4tdm": {
             "score": 3210000,
             "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1300997183482368000/diepio1m.2.jpg?ex=69547e8b&is=69532d0b&hm=2ebaa586c145537db21615b830ad7d965e082a63b78eaadab10d30eb995c072e&=&format=webp&width=1376&height=774"],
             "scorer": "endless"
         },
         "maze": {
@@ -1151,6 +1152,7 @@
         }
     }
 }
+
 
 
 
