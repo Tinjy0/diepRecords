@@ -1132,7 +1132,7 @@
         "2tdm": {
             "score": 0,
             "formattedDuration": "",
-            "scorer": "Minimum 5,000,000 Required"
+            "scorer": "Minimum 500,000 Required"
         },
         "4tdm": {
             "score": 1350000,
@@ -1140,12 +1140,13 @@
             "scorer": "Hades"
         },
         "maze": {
-            "score": 38766,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "breakou"
+            "scorer": "Minimim 500,000 Required"
         }
     }
 }
+
 
 
 
