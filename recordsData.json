@@ -434,6 +434,7 @@
         "4tdm": {
             "score": 1786996,
             "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1281292934616191046/Desktop_Screenshot_2023.10.02_-_21.58.49.07.png?ex=6954a948&is=695357c8&hm=1b9f1b526637d6731b7e0800ca45da900fe1cee365841ffe53d57604c74ae438&=&format=webp&quality=lossless&width=1307&height=735"],
             "scorer": "qaqa"
         },
         "maze": {
@@ -1147,6 +1148,7 @@
         }
     }
 }
+
 
 
 
