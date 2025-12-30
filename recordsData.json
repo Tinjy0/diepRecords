@@ -1067,7 +1067,7 @@
         "4tdm": {
             "score": 1230000,
             "formattedDuration": "",
-            "proofImages": "https://media.discordapp.net/attachments/1281143776861093898/1281178835303272540/Screenshot_619.png?ex=6954e7c5&is=69539645&hm=1b0b4e1f67076910b3004fcae73c5bdcb5084b9f4e918c79be7aade005b332d5&=&format=webp&quality=lossless&width=1376&height=774",
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1281178835303272540/Screenshot_619.png?ex=6954e7c5&is=69539645&hm=1b0b4e1f67076910b3004fcae73c5bdcb5084b9f4e918c79be7aade005b332d5&=&format=webp&quality=lossless&width=1376&height=774"],
             "scorer": "Corrupt Y"
         },
         "maze": {
@@ -1147,6 +1147,7 @@
         }
     }
 }
+
 
 
 
