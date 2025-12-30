@@ -254,6 +254,7 @@
         "2tdm": {
             "score": 2470825,
             "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1353233525146652712/image.png?ex=6954af6e&is=69535dee&hm=7a0087866653db52d4412ef6e109f708c965762444bac3c03956fe4fefb933b8&=&format=webp&quality=lossless&width=1376&height=774"],
             "scorer": "Aleph"
         },
         "4tdm": {
@@ -1160,6 +1161,7 @@
         }
     }
 }
+
 
 
 
