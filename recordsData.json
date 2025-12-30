@@ -1116,7 +1116,8 @@
         },
         "2tdm": {
             "score": 692633,
-            "formattedDuration": "",
+            "formattedDuration": "",            
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1310653717128675420/image-114.png?ex=6954b024&is=69535ea4&hm=237642402b44ce641a82c0852d90b5a1cc15ce4d21cfd1f950d6c87ad8b6b787&=&format=webp&quality=lossless&width=1307&height=735"],
             "scorer": "_Vap"
         },
         "4tdm": {
@@ -1155,6 +1156,7 @@
         }
     }
 }
+
 
 
 
