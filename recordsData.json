@@ -839,9 +839,10 @@
             "scorer": "Knockout"
         },
         "2tdm": {
-            "score": 1340000,
+            "score": 2050141,
             "formattedDuration": "",
-            "scorer": "Kateal"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1368967995052789790/Screenshot_2025-05-05_at_12.21.14_AM.png?ex=6969034c&is=6967b1cc&hm=6969b5395bd23502b6967c46840e1ca057851c7ffaf9a1a1d88294e7e6a74286&=&format=webp&quality=lossless&width=1267&height=713"],
+            "scorer": "Trix"
         },
         "4tdm": {
             "score": 2309670,
@@ -1163,6 +1164,7 @@
         }
     }
 }
+
 
 
 
