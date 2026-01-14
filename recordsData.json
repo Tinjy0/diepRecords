@@ -138,7 +138,7 @@
         "2tdm": {
             "score": 3025135,
             "formattedDuration": "",
-            "proofImages": "https://media.discordapp.net/attachments/1281143776861093898/1364260748305367090/image.png?ex=6967b555&is=696663d5&hm=cfccb00e250fab9502fca4d1f0c29006e0e8a3a5469098a77df3d89158d49ab4&=&format=webp&quality=lossless&width=1535&height=863",
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1364260748305367090/image.png?ex=6967b555&is=696663d5&hm=cfccb00e250fab9502fca4d1f0c29006e0e8a3a5469098a77df3d89158d49ab4&=&format=webp&quality=lossless&width=1535&height=863"],
             "year" : 2025,
             "scorer": "angle"
         },
@@ -1163,6 +1163,7 @@
         }
     }
 }
+
 
 
 
