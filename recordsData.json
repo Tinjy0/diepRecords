@@ -962,10 +962,10 @@
             "scorer": "LK2410"
         },
         "2tdm": {
-            "score": 1870000,
+            "score": 2040945,
             "formattedDuration": "",
-            "proofVideo": "https://youtu.be/iVvfwHTP2gY?si=fnAs7jxCmeWhEQQ4",
-            "scorer": "Aurora"
+            "proofImages": ["https://media.discordapp.net/attachments/1082195385314975744/1455806347684745226/battleship_wr.png?ex=69692e90&is=6967dd10&hm=96346b61d4f4172b99838319e05013538b68494c445451a7a95003c2db39c6ca&=&format=webp&quality=lossless&width=1267&height=713"],
+            "scorer": "Trix"
         },
         "4tdm": {
             "score": 1553236,
@@ -1164,6 +1164,7 @@
         }
     }
 }
+
 
 
 
