@@ -957,10 +957,10 @@
     },
     "battleship": {
         "ffa": {
-            "score": 1245052,
+            "score": 1405485,
             "formattedDuration": "",
-            "proofVideo": "",            
-            "scorer": "LK2410"
+            "proofImages": ["https://media.discordapp.net/attachments/1082195385314975744/1455909830916309149/image.png?ex=6968e631&is=696794b1&hm=c9a10b25c1ea742a9c673982a71c6496b594853c71ebe75b4e9aff1b49fdfa94&=&format=webp&quality=lossless&width=979&height=552"],            
+            "scorer": "Baller"
         },
         "2tdm": {
             "score": 2040945,
@@ -1165,6 +1165,7 @@
         }
     }
 }
+
 
 
 
