@@ -701,9 +701,10 @@
     },
     "overtrapper": {
         "ffa": {
-            "score": 709000,
+            "score": 907243,
             "formattedDuration": "",
-            "scorer": "Mohsen"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1450876064493736016/image.png?ex=69690b21&is=6967b9a1&hm=2afc5f2c58865ac8e30d7778c9e44084df793a3415cf59fca89dab3419f2723f&=&format=webp&quality=lossless&width=1267&height=713"],
+            "scorer": "Mr Cheeky"
         },
         "2tdm": {
             "score": 1349512,
@@ -1165,6 +1166,7 @@
         }
     }
 }
+
 
 
 
