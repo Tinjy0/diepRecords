@@ -111,10 +111,10 @@
             "scorer": "NadeWhyTea"
         },
         "2tdm": {
-            "score": 1590000,
+            "score": 1703697,
             "formattedDuration": "",
-            "proofImages": ["https://imgur.com/hkfRf2K.png"],
-            "scorer": "Fallen"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1459533830137450547/1.7mquadtank.png?ex=6968e64d&is=696794cd&hm=2b6f4334e114755aca6bae5a262ca197ac93058517cfad602418b9b97b7b7172&=&format=webp&quality=lossless&width=1116&height=628"],
+            "scorer": "LK2410"
         },
         "4tdm": {
             "score": 1580000,
@@ -1165,6 +1165,7 @@
         }
     }
 }
+
 
 
 
