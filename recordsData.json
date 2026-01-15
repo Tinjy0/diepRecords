@@ -184,10 +184,10 @@
             "scorer": "JB Colombia"
         },
         "2tdm": {
-            "score": 1678405,
+            "score": 2000174,
             "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1382190686882889748/image.png?ex=6968ff23&is=6967ada3&hm=59633bbedae000f4b2aab6cabfdf594d1d142724d2ff3ad8641ff64f6a4f2b96&=&format=webp&quality=lossless&width=1267&height=715"],
-            "scorer": "LimX"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1436292687568310302/image.png?ex=6969620d&is=6968108d&hm=f15310f30d86c83cd2d2ff4b24bd15d4b0b7908b026a88ebb65055baa065482e&=&format=webp&quality=lossless&width=1267&height=713"],
+            "scorer": "Lambo"
         },
         "4tdm": {
             "score": 2500000,
@@ -1165,6 +1165,7 @@
         }
     }
 }
+
 
 
 
