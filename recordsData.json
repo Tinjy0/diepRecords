@@ -736,9 +736,10 @@
             "scorer": "Denied"
         },
         "4tdm": {
-            "score": 679000,
+            "score": 1072786,
             "formattedDuration": "",
-            "scorer": "Scooby"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1439989780388511775/image.png?ex=6968fd7d&is=6967abfd&hm=5a4a0642b7a3efec4d4ee807335c31a1bac8e8f8f8080ac2bc58b4c69b889ab8&=&format=webp&quality=lossless&width=1267&height=713"],
+            "scorer": "hades"
         },
         "maze": {
             "score": 426000,
