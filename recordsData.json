@@ -184,9 +184,10 @@
             "scorer": "JB Colombia"
         },
         "2tdm": {
-            "score": 1500000,
+            "score": 1678405,
             "formattedDuration": "",
-            "scorer": "dragos"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1382190686882889748/image.png?ex=6968ff23&is=6967ada3&hm=59633bbedae000f4b2aab6cabfdf594d1d142724d2ff3ad8641ff64f6a4f2b96&=&format=webp&quality=lossless&width=1267&height=715"],
+            "scorer": "LimX"
         },
         "4tdm": {
             "score": 2500000,
@@ -1164,6 +1165,7 @@
         }
     }
 }
+
 
 
 
