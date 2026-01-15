@@ -90,10 +90,10 @@
             "scorer": "i'm back"
         },
         "4tdm": {
-            "score": 1480000,
+            "score": 1579388,
             "formattedDuration": "",
-            "proofImages": ["https://imgur.com/uPUEfqw.png"],
-            "scorer": "MG PRO"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1378919415541661827/image-236.png?ex=6968f607&is=6967a487&hm=67fa44adf950f4d6fc8ab26e727707d6e9544cad0df263580b6a2dc7d3a6b00a&=&format=webp&quality=lossless&width=1267&height=715"],
+            "scorer": "LimX"
         },
         "maze": {
             "score": 699000,
@@ -1164,6 +1164,7 @@
         }
     }
 }
+
 
 
 
