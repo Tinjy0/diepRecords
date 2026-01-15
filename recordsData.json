@@ -972,6 +972,7 @@
         "4tdm": {
             "score": 1553236,
             "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/1082195385314975744/1455896508686667849/image.png?ex=6968d9c8&is=69678848&hm=ff70ca74c0ca6f52aeff8ab3ac4cd202b757501620fabf048a9948c12ff5e987&=&format=webp&quality=lossless&width=1267&height=713"],
             "scorer": "LK2410"
         },
         "maze": {
@@ -1166,6 +1167,7 @@
         }
     }
 }
+
 
 
 
