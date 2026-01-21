@@ -1090,9 +1090,10 @@
             "scorer": "Fire"
         },
         "2tdm": {
-            "score": 0,
+            "score": 774046,
             "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1432161946316308520/image.png?ex=69721600&is=6970c480&hm=0e29f9b9c0259650b2a0812c76ed44749c1bb5231350a32246a9344c9e624c25&=&format=webp&quality=lossless&width=1308&height=736"],
+            "scorer": "GLITCHER TM"
         },
         "4tdm": {
             "score": 0,
@@ -1265,6 +1266,7 @@
         }
     }
 }
+
 
 
 
