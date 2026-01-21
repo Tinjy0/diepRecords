@@ -334,9 +334,10 @@
     },
     "shotgun": {
         "ffa": {
-            "score": 0,
+            "score": 510257,
             "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1450999747522465904/diep.io_-_Shotgun_510k.png?ex=69721012&is=6970be92&hm=8a117ea7fdca7c3a9d09addfe3e5eb1bcd612f2ace863a0953dd7d6a8c171966&=&format=webp&quality=lossless&width=1141&height=641"],
+            "scorer": "Fire"
         },
         "2tdm": {
             "score": 0,
@@ -1081,9 +1082,10 @@
     },
     "dual-barrel": {
         "ffa": {
-            "score": 0,
+            "score": 506804,
             "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1450999748214394991/diep.io_-_Duall-Barrel_506k.png?ex=69721012&is=6970be92&hm=925e47f30f896c0d75d1c0c58ba4dd6d163bc83f08d80d93554f32d48694597e&=&format=webp&quality=lossless&width=1141&height=641"],
+            "scorer": "Fire"
         },
         "2tdm": {
             "score": 0,
@@ -1261,6 +1263,7 @@
         }
     }
 }
+
 
 
 
