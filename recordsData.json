@@ -1171,88 +1171,89 @@
     },
     "shotgun": {
         "ffa": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Minimim 500,000 Required"
         },
         "2tdm": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Minimim 500,000 Required"
         },
         "4tdm": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Minimim 500,000 Required"
         },
         "maze": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Minimim 500,000 Required"
         }
     },"dual-barrel": {
         "ffa": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Minimim 500,000 Required"
         },
         "2tdm": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Minimim 500,000 Required"
         },
         "4tdm": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Minimim 500,000 Required"
         },
         "maze": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Minimim 500,000 Required"
         }
     },"pellet-shot": {
         "ffa": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Minimim 500,000 Required"
         },
         "2tdm": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Minimim 500,000 Required"
         },
         "4tdm": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Minimim 500,000 Required"
         },
         "maze": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Minimim 500,000 Required"
         }
     },"firework": {
         "ffa": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Minimim 500,000 Required"
         },
         "2tdm": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Minimim 500,000 Required"
         },
         "4tdm": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Minimim 500,000 Required"
         },
         "maze": {
-            "score": ,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": ""
+            "scorer": "Minimim 500,000 Required"
         }
     }
 }
+
 
