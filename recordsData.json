@@ -1066,9 +1066,10 @@
             "scorer": "Mikey"
         },
         "2tdm": {
-            "score": 0,
+            "score": 620943,
             "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1442688951285579806/Screenshot_536.png?ex=69722689&is=6970d509&hm=7da93c5684bd09e38b1a34ed572df821c0a3c5eb142ee53ba2a187b257130778&=&format=webp&quality=lossless&width=1308&height=736"],
+            "scorer": "green sunfish"
         },
         "4tdm": {
             "score": 0,
@@ -1264,6 +1265,7 @@
         }
     }
 }
+
 
 
 
