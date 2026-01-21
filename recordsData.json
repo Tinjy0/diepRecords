@@ -1023,9 +1023,10 @@
             "scorer": "cloudboyistrash"
         },
         "4tdm": {
-            "score": 0,
+            "score": 1921774,
             "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
+            "proofImages": ["https://media.discordapp.net/attachments/1399910109844602910/1457425672636072181/image.png?ex=69725e6e&is=69710cee&hm=3eb11e3ef5402e753cff54a777263ab8236d681162c47d40f7722d1d49e21b8c&=&format=webp&quality=lossless&width=1308&height=736"],
+            "scorer": "LK2410"
         },
         "maze": {
             "score": 0,
@@ -1259,5 +1260,6 @@
         }
     }
 }
+
 
 
