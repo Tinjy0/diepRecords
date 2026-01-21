@@ -1168,64 +1168,106 @@
             "formattedDuration": "",
             "scorer": "Minimim 500,000 Required"
         }
+    },
+    "shotgun": {
+        "ffa": {
+            "score": ,
+            "formattedDuration": "",
+            "proofImages": ,
+            "year" : ,
+            "scorer": ""
+        },
+        "2tdm": {
+            "score": ,
+            "formattedDuration": "",
+            "proofImages": ,
+            "scorer": ""
+        },
+        "4tdm": {
+            "score": ,
+            "formattedDuration": "",
+            "scorer": ""
+        },
+        "maze": {
+            "score": ,
+            "formattedDuration": "",
+            "scorer": "",
+            "proofVideo":
+        }
+    },"dual-barrel": {
+        "ffa": {
+            "score": ,
+            "formattedDuration": "",
+            "proofImages": ,
+            "year" : ,
+            "scorer": ""
+        },
+        "2tdm": {
+            "score": ,
+            "formattedDuration": "",
+            "proofImages": ,
+            "scorer": ""
+        },
+        "4tdm": {
+            "score": ,
+            "formattedDuration": "",
+            "scorer": ""
+        },
+        "maze": {
+            "score": ,
+            "formattedDuration": "",
+            "scorer": "",
+            "proofVideo": 
+        }
+    },"pellet-shot": {
+        "ffa": {
+            "score": ,
+            "formattedDuration": "",
+            "proofImages": ,
+            "year" : ,
+            "scorer": ""
+        },
+        "2tdm": {
+            "score": ,
+            "formattedDuration": "",
+            "proofImages": ,
+            "scorer": ""
+        },
+        "4tdm": {
+            "score": ,
+            "formattedDuration": "",
+            "scorer": ""
+        },
+        "maze": {
+            "score": ,
+            "formattedDuration": "",
+            "scorer": "",
+            "proofVideo":
+        }
+    },"firework": {
+        "ffa": {
+            "score": ,
+            "formattedDuration": "",
+            "proofImages": ,
+            "year" : ,
+            "scorer": ""
+        },
+        "2tdm": {
+            "score": ,
+            "formattedDuration": "",
+            "proofImages": ,
+            "scorer": ""
+        },
+        "4tdm": {
+            "score": ,
+            "formattedDuration": "",
+            "scorer": ""
+        },
+        "maze": {
+            "score": ,
+            "formattedDuration": "",
+            "scorer": "",
+            "proofVideo": 
+        }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
