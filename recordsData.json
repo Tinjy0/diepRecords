@@ -1017,9 +1017,10 @@
             "scorer": "Minimim 500,000 Required"
         },
         "2tdm": {
-            "score": 0,
+            "score": 3120148,
             "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
+            "proofImages": ["https://media.discordapp.net/attachments/1082195385314975744/1459316739836870738/xBGLx0h.png?ex=6971ff5f&is=6970addf&hm=8a05060a7e47c9172f3583e7cf99bcd7a26efc11ff55d9c832c38b090ba69096&=&format=webp&quality=lossless&width=1308&height=736"],
+            "scorer": "cloudboyistrash"
         },
         "4tdm": {
             "score": 0,
@@ -1258,4 +1259,5 @@
         }
     }
 }
+
 
