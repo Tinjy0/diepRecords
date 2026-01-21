@@ -1173,14 +1173,11 @@
         "ffa": {
             "score": ,
             "formattedDuration": "",
-            "proofImages": ,
-            "year" : ,
             "scorer": ""
         },
         "2tdm": {
             "score": ,
             "formattedDuration": "",
-            "proofImages": ,
             "scorer": ""
         },
         "4tdm": {
@@ -1191,21 +1188,17 @@
         "maze": {
             "score": ,
             "formattedDuration": "",
-            "scorer": "",
-            "proofVideo":
+            "scorer": ""
         }
     },"dual-barrel": {
         "ffa": {
             "score": ,
             "formattedDuration": "",
-            "proofImages": ,
-            "year" : ,
             "scorer": ""
         },
         "2tdm": {
             "score": ,
             "formattedDuration": "",
-            "proofImages": ,
             "scorer": ""
         },
         "4tdm": {
@@ -1216,21 +1209,17 @@
         "maze": {
             "score": ,
             "formattedDuration": "",
-            "scorer": "",
-            "proofVideo": 
+            "scorer": ""
         }
     },"pellet-shot": {
         "ffa": {
             "score": ,
             "formattedDuration": "",
-            "proofImages": ,
-            "year" : ,
             "scorer": ""
         },
         "2tdm": {
             "score": ,
             "formattedDuration": "",
-            "proofImages": ,
             "scorer": ""
         },
         "4tdm": {
@@ -1241,21 +1230,17 @@
         "maze": {
             "score": ,
             "formattedDuration": "",
-            "scorer": "",
-            "proofVideo":
+            "scorer": ""
         }
     },"firework": {
         "ffa": {
             "score": ,
             "formattedDuration": "",
-            "proofImages": ,
-            "year" : ,
             "scorer": ""
         },
         "2tdm": {
             "score": ,
             "formattedDuration": "",
-            "proofImages": ,
             "scorer": ""
         },
         "4tdm": {
@@ -1266,8 +1251,8 @@
         "maze": {
             "score": ,
             "formattedDuration": "",
-            "scorer": "",
-            "proofVideo": 
+            "scorer": ""
         }
     }
 }
+
