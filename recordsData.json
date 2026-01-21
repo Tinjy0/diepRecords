@@ -52,109 +52,6 @@
             "scorer": "Kesler"
         }
     },
-    "triplet": {
-        "ffa": {
-            "score": 2680000,
-            "formattedDuration": "",
-            "proofImages": ["https://imgur.com/b3nmfte.png"],
-            "scorer": "Unknown User☯"
-        },
-        "2tdm": {
-            "score": 2330000,
-            "formattedDuration": "",
-            "scorer": "Ricardo"
-        },
-        "4tdm": {
-            "score": 2000000,
-            "formattedDuration": "",
-            "scorer": "RipDreams"
-        },
-        "maze": {
-            "score": 1720000,
-            "formattedDuration": "",
-            "proofImages": ["https://imgur.com/vneDuFb.png"],
-            "scorer": "Kyo"
-        }
-    },
-    "triple-shot": {
-        "ffa": {
-            "score": 1390000,
-            "formattedDuration": "",
-            "proofImages": ["https://imgur.com/zMdxE0w.png"],
-            "scorer": "RYS"
-        },
-        "2tdm": {
-            "score": 1960000,
-            "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1299216343735992361/image.png?ex=69549b82&is=69534a02&hm=8d44b857270029c1a585af9b42a97900290226f5bd6e5d0279ae0b050396a0a6&=&format=webp&quality=lossless"],
-            "scorer": "i'm back"
-        },
-        "4tdm": {
-            "score": 1579388,
-            "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1378919415541661827/image-236.png?ex=6968f607&is=6967a487&hm=67fa44adf950f4d6fc8ab26e727707d6e9544cad0df263580b6a2dc7d3a6b00a&=&format=webp&quality=lossless&width=1267&height=715"],
-            "scorer": "LimX"
-        },
-        "maze": {
-            "score": 699000,
-            "formattedDuration": "",
-            "proofVideo": "https://youtu.be/cUsfVQxDCX8?si=MOu043xhQBCYpCVf",
-            "scorer": "xTriangleSquare"
-        }
-    },
-    "quad-tank": {
-        "ffa": {
-            "score": 1339743,
-            "formattedDuration": "",
-            "proofImages": ["https://imgur.com/e46Sfee.png"],
-            "year" : 2022,
-            "scorer": "NadeWhyTea"
-        },
-        "2tdm": {
-            "score": 1703697,
-            "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1459533830137450547/1.7mquadtank.png?ex=6968e64d&is=696794cd&hm=2b6f4334e114755aca6bae5a262ca197ac93058517cfad602418b9b97b7b7172&=&format=webp&quality=lossless&width=1116&height=628"],
-            "scorer": "LK2410"
-        },
-        "4tdm": {
-            "score": 1580000,
-            "formattedDuration": "",
-            "proofImages": ["https://imgur.com/wiiTDTQ.png"],
-            "scorer": "Fallen"
-        },
-        "maze": {
-            "score": 818000,
-            "formattedDuration": "",
-            "proofImages": ["https://imgur.com/mqD6Af7.png"],
-            "scorer": "Astral"
-        }
-    },
-    "octo-tank": {
-        "ffa": {
-            "score": 2620000,
-            "formattedDuration": "",
-            "scorer": "Fallen"
-        },
-        "2tdm": {
-            "score": 3025135,
-            "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1364260748305367090/image.png?ex=6967b555&is=696663d5&hm=cfccb00e250fab9502fca4d1f0c29006e0e8a3a5469098a77df3d89158d49ab4&=&format=webp&quality=lossless&width=1535&height=863"],
-            "year" : 2025,
-            "scorer": "angle"
-        },
-        "4tdm": {
-            "score": 3189234,
-            "formattedDuration": "",
-            "year" : 2022,
-            "proofVideo": "https://youtu.be/uTV8fofPmLk?si=UlNwEfk-pqYY4O2N",
-            "scorer": "lambo"
-        },
-        "maze": {
-            "score": 1380000,
-            "formattedDuration": "",
-            "scorer": "JB Colombia"
-        }
-    },
     "sniper": {
         "ffa": {
             "score": 1990000,
@@ -224,94 +121,57 @@
             "scorer": "Deimos"
         }
     },
-    "tri-angle": {
+    "triple-shot": {
         "ffa": {
-            "score": 2150000,
+            "score": 1390000,
             "formattedDuration": "",
+            "proofImages": ["https://imgur.com/zMdxE0w.png"],
             "scorer": "RYS"
         },
         "2tdm": {
-            "score": 2080000,
+            "score": 1960000,
             "formattedDuration": "",
-            "scorer": "Minty"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1299216343735992361/image.png?ex=69549b82&is=69534a02&hm=8d44b857270029c1a585af9b42a97900290226f5bd6e5d0279ae0b050396a0a6&=&format=webp&quality=lossless"],
+            "scorer": "i'm back"
         },
         "4tdm": {
-            "score": 1910000,
+            "score": 1579388,
             "formattedDuration": "",
-            "scorer": "RYS"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1378919415541661827/image-236.png?ex=6968f607&is=6967a487&hm=67fa44adf950f4d6fc8ab26e727707d6e9544cad0df263580b6a2dc7d3a6b00a&=&format=webp&quality=lossless&width=1267&height=715"],
+            "scorer": "LimX"
         },
         "maze": {
-            "score": 1250000,
+            "score": 699000,
             "formattedDuration": "",
-            "scorer": "RYS"
+            "proofVideo": "https://youtu.be/cUsfVQxDCX8?si=MOu043xhQBCYpCVf",
+            "scorer": "xTriangleSquare"
         }
     },
-    "destroyer": {
+    "quad-tank": {
         "ffa": {
-            "score": 1450000,
+            "score": 1339743,
             "formattedDuration": "",
-            "scorer": "Wadjet"
+            "proofImages": ["https://imgur.com/e46Sfee.png"],
+            "year" : 2022,
+            "scorer": "NadeWhyTea"
         },
         "2tdm": {
-            "score": 2470825,
+            "score": 1703697,
             "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1353233525146652712/image.png?ex=6954af6e&is=69535dee&hm=7a0087866653db52d4412ef6e109f708c965762444bac3c03956fe4fefb933b8&=&format=webp&quality=lossless&width=1376&height=774"],
-            "scorer": "Aleph"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1459533830137450547/1.7mquadtank.png?ex=6968e64d&is=696794cd&hm=2b6f4334e114755aca6bae5a262ca197ac93058517cfad602418b9b97b7b7172&=&format=webp&quality=lossless&width=1116&height=628"],
+            "scorer": "LK2410"
         },
         "4tdm": {
-            "score": 2960000,
+            "score": 1580000,
             "formattedDuration": "",
-            "scorer": "Tri-Trapper"
+            "proofImages": ["https://imgur.com/wiiTDTQ.png"],
+            "scorer": "Fallen"
         },
         "maze": {
-            "score": 1040000,
+            "score": 818000,
             "formattedDuration": "",
-            "scorer": "JB Colombia"
-        }
-    },
-    "overseer": {
-        "ffa": {
-            "score": 3070000,
-            "formattedDuration": "",
-            "scorer": "JB Colombia"
-        },
-        "2tdm": {
-            "score": 4960000,
-            "formattedDuration": "",
-            "scorer": "T.wS"
-        },
-        "4tdm": {
-            "score": 4091629,
-            "formattedDuration": "",
-            "scorer": "Mohsen"
-        },
-        "maze": {
-            "score": 2110000,
-            "formattedDuration": "",
-            "scorer": "JB Colombia"
-        }
-    },
-    "overlord": {
-        "ffa": {
-            "score": 4300000,
-            "formattedDuration": "",
-            "scorer": "Animal"
-        },
-        "2tdm": {
-            "score": 7683534,
-            "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1339781347929227314/image.png?ex=6954869d&is=6953351d&hm=2c7b6e1723e8954b401d21dc888a7e5ba5cb5f3c3ee31ae4fcfb91a1af81ab28&=&format=webp&quality=lossless&width=1376&height=769"],
-            "scorer": "Legit Developer"
-        },
-        "4tdm": {
-            "score": 6630000,
-            "formattedDuration": "",
-            "scorer": "Mohsen"
-        },
-        "maze": {
-            "score": 2320000,
-            "formattedDuration": "",
-            "scorer": "JB Colombia"
+            "proofImages": ["https://imgur.com/mqD6Af7.png"],
+            "scorer": "Astral"
         }
     },
     "twin-flank": {
@@ -332,29 +192,6 @@
         },
         "maze": {
             "score": 1390000,
-            "formattedDuration": "",
-            "scorer": "exo"
-        }
-    },
-    "penta-shot": {
-        "ffa": {
-            "score": 2910000,
-            "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1292585410765000735/IMG_5715.png?ex=6954dfb9&is=69538e39&hm=207af13b366447221b1bb4d092eebb2a2c24cc7eec4615606f22775e581ce057&=&format=webp&quality=lossless"],
-            "scorer": "Potatoboi"
-        },
-        "2tdm": {
-            "score": 3300000,
-            "formattedDuration": "",
-            "scorer": "Bela"
-        },
-        "4tdm": {
-            "score": 2670000,
-            "formattedDuration": "",
-            "scorer": "Emerson"
-        },
-        "maze": {
-            "score": 2000000,
             "formattedDuration": "",
             "scorer": "exo"
         }
@@ -381,48 +218,26 @@
             "scorer": "Baller"
         }
     },
-    "necromancer": {
+    "overseer": {
         "ffa": {
-            "score": 1780000,
+            "score": 3070000,
             "formattedDuration": "",
             "scorer": "JB Colombia"
         },
         "2tdm": {
-            "score": 3610000,
+            "score": 4960000,
             "formattedDuration": "",
-            "scorer": "Saeko"
+            "scorer": "T.wS"
         },
         "4tdm": {
-            "score": 3730000,
+            "score": 4091629,
             "formattedDuration": "",
-            "scorer": "d2xy.0"
+            "scorer": "Mohsen"
         },
         "maze": {
-            "score": 1070000,
+            "score": 2110000,
             "formattedDuration": "",
-            "scorer": "Baller"
-        }
-    },
-    "triple-twin": {
-        "ffa": {
-            "score": 1730336,
-            "formattedDuration": "",
-            "scorer": "Im350kBooster"
-        },
-        "2tdm": {
-            "score": 1710000,
-            "formattedDuration": "",
-            "scorer": "Will"
-        },
-        "4tdm": {
-            "score": 4190000,
-            "formattedDuration": "",
-            "scorer": "exo"
-        },
-        "maze": {
-            "score": 1950000,
-            "formattedDuration": "",
-            "scorer": "Dragonis"
+            "scorer": "JB Colombia"
         }
     },
     "hunter": {
@@ -446,211 +261,6 @@
             "score": 498000,
             "formattedDuration": "",
             "scorer": "Mipha"
-        }
-    },
-    "gunner": {
-        "ffa": {
-            "score": 1680000,
-            "formattedDuration": "",
-            "scorer": "Knockout"
-        },
-        "2tdm": {
-            "score": 1519262,
-            "formattedDuration": "",
-            "scorer": "Mohsen"
-        },
-        "4tdm": {
-            "score": 1310000,
-            "formattedDuration": "",
-            "scorer": "Aeros"
-        },
-        "maze": {
-            "score": 679000,
-            "formattedDuration": "",
-            "scorer": "Unknown User☯"
-        }
-    },
-    "stalker": {
-        "ffa": {
-            "score": 1030000,
-            "formattedDuration": "",
-            "scorer": "JB Colombia"
-        },
-        "2tdm": {
-            "score": 2500000,
-            "formattedDuration": "",
-            "scorer": "Rop"
-        },
-        "4tdm": {
-            "score": 1710000,
-            "formattedDuration": "",
-            "scorer": "f22 birkin"
-        },
-        "maze": {
-            "score": 550000,
-            "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1357005647723368580/unknown.png?ex=695490be&is=69533f3e&hm=740b029b0ba47487a4a076033f12f4b7971bbb9663423e161a1035a669ee0d58&=&format=webp&quality=lossless&width=1149&height=647"],
-            "year" : 2022,
-            "scorer": "Sunset"
-        }
-    },
-    "ranger": {
-        "ffa": {
-            "score": 1480000,
-            "formattedDuration": "",
-            "scorer": "JB Colombia"
-        },
-        "2tdm": {
-            "score": 2270000,
-            "formattedDuration": "",
-            "scorer": "Aspect"
-        },
-        "4tdm": {
-            "score": 2230000,
-            "formattedDuration": "",
-            "scorer": "Unnamed sniper"
-        },
-        "maze": {
-            "score": 682000,
-            "formattedDuration": "",
-            "scorer": "Mipha"
-        }
-    },
-    "booster": {
-        "ffa": {
-            "score": 3400000,
-            "formattedDuration": "",
-            "scorer": "exo"
-        },
-        "2tdm": {
-            "score": 1980000,
-            "formattedDuration": "",
-            "scorer": "Sprunk"
-        },
-        "4tdm": {
-            "score": 3020000,
-            "formattedDuration": "",
-            "scorer": "Wash"
-        },
-        "maze": {
-            "score": 1690000,
-            "formattedDuration": "",
-            "scorer": "exo"
-        }
-    },
-    "fighter": {
-        "ffa": {
-            "score": 3880000,
-            "formattedDuration": "",
-            "scorer": "Souka"
-        },
-        "2tdm": {
-            "score": 3300014,
-            "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1308698019683766293/3.3m.png?ex=6954d302&is=69538182&hm=335364468f03e0bba04109c9d1fccef3fb1fd2fd823dec36da8eb0de784c8002&=&format=webp&quality=lossless&width=1376&height=774"],
-            "scorer": "angle"
-        },
-        "4tdm": {
-            "score": 3448415,
-            "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1281793302932488193/image.png?ex=69548109&is=69532f89&hm=aa34bd2a221127fe4b66d45cb2b497ab704259b0abe2155512a942f9521361d6&=&format=webp&quality=lossless&width=1307&height=735"],
-            "scorer": "Legit Developer"
-        },
-        "maze": {
-            "score": 1880000,
-            "formattedDuration": "",
-            "scorer": "exo"
-        }
-    },
-    "hybrid": {
-        "ffa": {
-            "score": 3084274,
-            "formattedDuration": "",
-            "proofVideo": "https://youtu.be/WnDOQWecvO4?si=vB_SBlADE3oPFOoe",
-            "year" : 2016,
-            "scorer": "lagbreaker"
-        },
-        "2tdm": {
-            "score": 2510000,
-            "formattedDuration": "",
-            "scorer": "vado"
-        },
-        "4tdm": {
-            "score": 2650000,
-            "formattedDuration": "",
-            "scorer": "jorgito gamer"
-        },
-        "maze": {
-            "score": 1610000,
-            "formattedDuration": "",
-            "scorer": "Tri-Trapper"
-        }
-    },
-    "manager": {
-        "ffa": {
-            "score": 2260000,
-            "formattedDuration": "",
-            "scorer": "JB Colombia"
-        },
-        "2tdm": {
-            "score": 5940000,
-            "formattedDuration": "",
-            "scorer": "T.wS"
-        },
-        "4tdm": {
-            "score": 4430000,
-            "formattedDuration": "",
-            "scorer": "Mohsen"
-        },
-        "maze": {
-            "score": 2180000,
-            "formattedDuration": "",
-            "scorer": "Mipha"
-        }
-    },
-    "predator": {
-        "ffa": {
-            "score": 2250000,
-            "formattedDuration": "",
-            "scorer": "Unnamed sniper"
-        },
-        "2tdm": {
-            "score": 4510146,
-            "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1383558834295144448/image.png?ex=69559593&is=69544413&hm=22149daaebda7aadd332f47b6bee2eee5304623674863c4cdc8fded00eeb7ef9&=&format=webp&quality=lossless&width=1376&height=774"],
-            "scorer": "Grims"
-        },
-        "4tdm": {
-            "score": 4300000,
-            "formattedDuration": "",
-            "scorer": "potatotomato"
-        },
-        "maze": {
-            "score": 1040000,
-            "formattedDuration": "",
-            "scorer": "Astral"
-        }
-    },
-    "sprayer": {
-        "ffa": {
-            "score": 3940000,
-            "formattedDuration": "",
-            "scorer": "exo"
-        },
-        "2tdm": {
-            "score": 1790000,
-            "formattedDuration": "",
-            "scorer": "Fallen"
-        },
-        "4tdm": {
-            "score": 1950000,
-            "formattedDuration": "",
-            "scorer": "NoName"
-        },
-        "maze": {
-            "score": 1510000,
-            "formattedDuration": "",
-            "scorer": "Dragonis"
         }
     },
     "trapper": {
@@ -677,162 +287,93 @@
             "scorer": "Kratos"
         }
     },
-    "gunner-trapper": {
+    "destroyer": {
         "ffa": {
-            "score": 2160000,
+            "score": 1450000,
             "formattedDuration": "",
-            "scorer": "Oblivion"
+            "scorer": "Wadjet"
         },
         "2tdm": {
-            "score": 1640000,
+            "score": 2470825,
             "formattedDuration": "",
-            "scorer": "Snapwing"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1353233525146652712/image.png?ex=6954af6e&is=69535dee&hm=7a0087866653db52d4412ef6e109f708c965762444bac3c03956fe4fefb933b8&=&format=webp&quality=lossless&width=1376&height=774"],
+            "scorer": "Aleph"
         },
         "4tdm": {
-            "score": 1630000,
+            "score": 2960000,
             "formattedDuration": "",
-            "scorer": "Pekmen"
+            "scorer": "Tri-Trapper"
         },
         "maze": {
-            "score": 1200000,
+            "score": 1040000,
             "formattedDuration": "",
             "scorer": "JB Colombia"
         }
     },
-    "overtrapper": {
+    "gunner": {
         "ffa": {
-            "score": 907243,
+            "score": 1680000,
             "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1450876064493736016/image.png?ex=69690b21&is=6967b9a1&hm=2afc5f2c58865ac8e30d7778c9e44084df793a3415cf59fca89dab3419f2723f&=&format=webp&quality=lossless&width=1267&height=713"],
-            "scorer": "Mr Cheeky"
+            "scorer": "Knockout"
         },
         "2tdm": {
-            "score": 1349512,
+            "score": 1519262,
             "formattedDuration": "",
-            "proofImages": ["https://cdn.discordapp.com/attachments/1281143776861093898/1379882526994206750/Screenshot_2025-06-03_at_9.43.02_PM.png?ex=69692b3f&is=6967d9bf&hm=2ec1328e9b20d72a20672530285e855eb76f945f3d6a09345c87f010f060cf93"],
-            "scorer": "Trix"
+            "scorer": "Mohsen"
         },
         "4tdm": {
-            "score": 911000,
+            "score": 1310000,
             "formattedDuration": "",
-            "scorer": "owo"
+            "scorer": "Aeros"
         },
         "maze": {
-            "score": 558000,
+            "score": 679000,
             "formattedDuration": "",
-            "scorer": "Surprise"
+            "scorer": "Unknown User☯"
         }
     },
-    "mega-trapper": {
+    "shotgun": {
         "ffa": {
-            "score": 560643,
+            "score": 0,
             "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1305961623919529994/cachedImage.png?ex=6954c1ca&is=6953704a&hm=487b607145e9b1acf967628257bdd3bc2209d15223ebe4e472f3cb3a3ee1329a&=&format=webp&quality=lossless&width=1376&height=774"],
-            "scorer": "PEANUTBUTTER"
+            "scorer": "Minimim 500,000 Required"
         },
         "2tdm": {
-            "score": 1090000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "Denied"
+            "scorer": "Minimim 500,000 Required"
         },
         "4tdm": {
-            "score": 1072786,
+            "score": 0,
             "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1439989780388511775/image.png?ex=6968fd7d&is=6967abfd&hm=5a4a0642b7a3efec4d4ee807335c31a1bac8e8f8f8080ac2bc58b4c69b889ab8&=&format=webp&quality=lossless&width=1267&height=713"],
-            "scorer": "hades"
+            "scorer": "Minimim 500,000 Required"
         },
         "maze": {
-            "score": 426000,
+            "score": 0,
             "formattedDuration": "",
-            "scorer": "swi"
+            "scorer": "Minimim 500,000 Required"
         }
     },
-    "tri-trapper": {
+    "tri-angle": {
         "ffa": {
-            "score": 1100000,
+            "score": 2150000,
             "formattedDuration": "",
-            "scorer": "Emerson"
+            "scorer": "RYS"
         },
         "2tdm": {
-            "score": 1123032,
+            "score": 2080000,
             "formattedDuration": "",
-            "scorer": "LK2410"
+            "scorer": "Minty"
         },
         "4tdm": {
-            "score": 1030000,
+            "score": 1910000,
             "formattedDuration": "",
-            "scorer": "werr"
+            "scorer": "RYS"
         },
         "maze": {
-            "score": 648000,
+            "score": 1250000,
             "formattedDuration": "",
-            "scorer": "Ichio"
-        }
-    },
-    "smasher": {
-        "ffa": {
-            "score": 1110000,
-            "formattedDuration": "",
-            "scorer": "Elephant giggle"
-        },
-        "2tdm": {
-            "score": 3020000,
-            "formattedDuration": "",
-            "scorer": "Sonic"
-        },
-        "4tdm": {
-            "score": 1640000,
-            "formattedDuration": "",
-            "scorer": "Lider"
-        },
-        "maze": {
-            "score": 889000,
-            "formattedDuration": "",
-            "scorer": "Taco"
-        }
-    },
-    "landmine": {
-        "ffa": {
-            "score": 1300000,
-            "formattedDuration": "",
-            "scorer": "Relentless"
-        },
-        "2tdm": {
-            "score": 1980000,
-            "formattedDuration": "",
-            "scorer": "Sonic"
-        },
-        "4tdm": {
-            "score": 1320000,
-            "formattedDuration": "",
-            "scorer": "Sonic"
-        },
-        "maze": {
-            "score": 1070000,
-            "formattedDuration": "",
-            "scorer": "Relentless"
-        }
-    },
-    "auto-gunner": {
-        "ffa": {
-            "score": 3150000,
-            "formattedDuration": "",
-            "scorer": "Peregrine"
-        },
-        "2tdm": {
-            "score": 2320000,
-            "formattedDuration": "",
-            "scorer": "Rhyden Bolt"
-        },
-        "4tdm": {
-            "score": 2230000,
-            "formattedDuration": "",
-            "scorer": "Overr"
-        },
-        "maze": {
-            "score": 2180000,
-            "formattedDuration": "",
-            "scorer": "exo"
+            "scorer": "RYS"
         }
     },
     "auto-3": {
@@ -857,6 +398,124 @@
             "score": 427000,
             "formattedDuration": "",
             "scorer": "Astral"
+        }
+    },
+    "smasher": {
+        "ffa": {
+            "score": 1110000,
+            "formattedDuration": "",
+            "scorer": "Elephant giggle"
+        },
+        "2tdm": {
+            "score": 3020000,
+            "formattedDuration": "",
+            "scorer": "Sonic"
+        },
+        "4tdm": {
+            "score": 1640000,
+            "formattedDuration": "",
+            "scorer": "Lider"
+        },
+        "maze": {
+            "score": 889000,
+            "formattedDuration": "",
+            "scorer": "Taco"
+        }
+    },
+    "triplet": {
+        "ffa": {
+            "score": 2680000,
+            "formattedDuration": "",
+            "proofImages": ["https://imgur.com/b3nmfte.png"],
+            "scorer": "Unknown User☯"
+        },
+        "2tdm": {
+            "score": 2330000,
+            "formattedDuration": "",
+            "scorer": "Ricardo"
+        },
+        "4tdm": {
+            "score": 2000000,
+            "formattedDuration": "",
+            "scorer": "RipDreams"
+        },
+        "maze": {
+            "score": 1720000,
+            "formattedDuration": "",
+            "proofImages": ["https://imgur.com/vneDuFb.png"],
+            "scorer": "Kyo"
+        }
+    },
+    "penta-shot": {
+        "ffa": {
+            "score": 2910000,
+            "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1292585410765000735/IMG_5715.png?ex=6954dfb9&is=69538e39&hm=207af13b366447221b1bb4d092eebb2a2c24cc7eec4615606f22775e581ce057&=&format=webp&quality=lossless"],
+            "scorer": "Potatoboi"
+        },
+        "2tdm": {
+            "score": 3300000,
+            "formattedDuration": "",
+            "scorer": "Bela"
+        },
+        "4tdm": {
+            "score": 2670000,
+            "formattedDuration": "",
+            "scorer": "Emerson"
+        },
+        "maze": {
+            "score": 2000000,
+            "formattedDuration": "",
+            "scorer": "exo"
+        }
+    },
+    "spread-shot": {
+        "ffa": {
+            "score": 3460000,
+            "formattedDuration": "",
+            "scorer": "MG PRO"
+        },
+        "2tdm": {
+            "score": 3220000,
+            "formattedDuration": "",
+            "scorer": "MG PRO"
+        },
+        "4tdm": {
+            "score": 3212122,
+            "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1300997183482368000/diepio1m.2.jpg?ex=69547e8b&is=69532d0b&hm=2ebaa586c145537db21615b830ad7d965e082a63b78eaadab10d30eb995c072e&=&format=webp&width=1376&height=774"],
+            "scorer": "endless"
+        },
+        "maze": {
+            "score": 1680000,
+            "formattedDuration": "",
+            "scorer": "Basic"
+        }
+    },
+    "octo-tank": {
+        "ffa": {
+            "score": 2620000,
+            "formattedDuration": "",
+            "scorer": "Fallen"
+        },
+        "2tdm": {
+            "score": 3025135,
+            "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1364260748305367090/image.png?ex=6967b555&is=696663d5&hm=cfccb00e250fab9502fca4d1f0c29006e0e8a3a5469098a77df3d89158d49ab4&=&format=webp&quality=lossless&width=1535&height=863"],
+            "year" : 2025,
+            "scorer": "angle"
+        },
+        "4tdm": {
+            "score": 3189234,
+            "formattedDuration": "",
+            "year" : 2022,
+            "proofVideo": "https://youtu.be/uTV8fofPmLk?si=UlNwEfk-pqYY4O2N",
+            "scorer": "lambo"
+        },
+        "maze": {
+            "score": 1380000,
+            "formattedDuration": "",
+            "scorer": "JB Colombia"
         }
     },
         "auto-5": {
@@ -889,72 +548,26 @@
             "scorer": "Baller"
         }
     },
-    "spread-shot": {
+    "triple-twin": {
         "ffa": {
-            "score": 3460000,
+            "score": 1730336,
             "formattedDuration": "",
-            "scorer": "MG PRO"
+            "scorer": "Im350kBooster"
         },
         "2tdm": {
-            "score": 3220000,
+            "score": 1710000,
             "formattedDuration": "",
-            "scorer": "MG PRO"
+            "scorer": "Will"
         },
         "4tdm": {
-            "score": 3212122,
-            "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1300997183482368000/diepio1m.2.jpg?ex=69547e8b&is=69532d0b&hm=2ebaa586c145537db21615b830ad7d965e082a63b78eaadab10d30eb995c072e&=&format=webp&width=1376&height=774"],
-            "scorer": "endless"
-        },
-        "maze": {
-            "score": 1680000,
-            "formattedDuration": "",
-            "scorer": "Basic"
-        }
-    },
-    "streamliner": {
-        "ffa": {
-            "score": 1470000,
-            "formattedDuration": "",
-            "scorer": "Zimdac"
-        },
-        "2tdm": {
-            "score": 2870000,
-            "formattedDuration": "",
-            "scorer": "Mr Cheeky"
-        },
-        "4tdm": {
-            "score": 1640000,
-            "formattedDuration": "",
-            "scorer": "rbest"
-        },
-        "maze": {
-            "score": 1320000,
+            "score": 4190000,
             "formattedDuration": "",
             "scorer": "exo"
-        }
-    },
-    "auto-trapper": {
-        "ffa": {
-            "score": 1070000,
-            "formattedDuration": "",
-            "scorer": "JB Colombia"
-        },
-        "2tdm": {
-            "score": 2024287,
-            "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/836739939936894996/1352389013054558298/image.png?ex=6954e8aa&is=6953972a&hm=6dcfa0a1bd057cf9e7d0be9b845d7cb3866bfc3bd7530f285b28f39accdedb90&=&format=webp&quality=lossless&width=1376&height=774"],
-            "scorer": "Hades"
-        },
-        "4tdm": {
-            "score": 1150000,
-            "formattedDuration": "",
-            "scorer": "fortune"
         },
         "maze": {
-            "score": 1510000,
+            "score": 1950000,
             "formattedDuration": "",
-            "scorer": "exo"
+            "scorer": "Dragonis"
         }
     },
     "battleship": {
@@ -983,70 +596,141 @@
             "scorer": "Baller"
         }
     },
-    "annihilator": {
+    "ranger": {
         "ffa": {
-            "score": 2620000,
+            "score": 1480000,
             "formattedDuration": "",
-            "scorer": "JASON"
+            "scorer": "JB Colombia"
         },
         "2tdm": {
-            "score": 2990000,
+            "score": 2270000,
             "formattedDuration": "",
-            "scorer": "Shadowcaster"
+            "scorer": "Aspect"
         },
         "4tdm": {
-            "score": 2510000,
+            "score": 2230000,
             "formattedDuration": "",
-            "scorer": "X-PRO"
+            "scorer": "Unnamed sniper"
         },
         "maze": {
-            "score": 2020000,
+            "score": 682000,
+            "formattedDuration": "",
+            "scorer": "Mipha"
+        }
+    },
+    "stalker": {
+        "ffa": {
+            "score": 1030000,
+            "formattedDuration": "",
+            "scorer": "JB Colombia"
+        },
+        "2tdm": {
+            "score": 2500000,
+            "formattedDuration": "",
+            "scorer": "Rop"
+        },
+        "4tdm": {
+            "score": 1710000,
+            "formattedDuration": "",
+            "scorer": "f22 birkin"
+        },
+        "maze": {
+            "score": 550000,
+            "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1357005647723368580/unknown.png?ex=695490be&is=69533f3e&hm=740b029b0ba47487a4a076033f12f4b7971bbb9663423e161a1035a669ee0d58&=&format=webp&quality=lossless&width=1149&height=647"],
+            "year" : 2022,
+            "scorer": "Sunset"
+        }
+    },
+    "overlord": {
+        "ffa": {
+            "score": 4300000,
+            "formattedDuration": "",
+            "scorer": "Animal"
+        },
+        "2tdm": {
+            "score": 7683534,
+            "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1339781347929227314/image.png?ex=6954869d&is=6953351d&hm=2c7b6e1723e8954b401d21dc888a7e5ba5cb5f3c3ee31ae4fcfb91a1af81ab28&=&format=webp&quality=lossless&width=1376&height=769"],
+            "scorer": "Legit Developer"
+        },
+        "4tdm": {
+            "score": 6630000,
+            "formattedDuration": "",
+            "scorer": "Mohsen"
+        },
+        "maze": {
+            "score": 2320000,
             "formattedDuration": "",
             "scorer": "JB Colombia"
         }
     },
-    "auto-smasher": {
+    "necromancer": {
         "ffa": {
-            "score": 1390000,
+            "score": 1780000,
             "formattedDuration": "",
-            "scorer": "Astral"
+            "scorer": "JB Colombia"
         },
         "2tdm": {
-            "score": 1900000,
+            "score": 3610000,
             "formattedDuration": "",
-            "scorer": "Sonic"
+            "scorer": "Saeko"
         },
         "4tdm": {
-            "score": 2350000,
+            "score": 3730000,
             "formattedDuration": "",
-            "scorer": "GlitchuPichu"
+            "scorer": "d2xy.0"
         },
         "maze": {
-            "score": 686000,
+            "score": 1070000,
             "formattedDuration": "",
-            "scorer": "Taco"
+            "scorer": "Baller"
         }
     },
-    "spike": {
+    "manager": {
         "ffa": {
-            "score": 1500000,
+            "score": 2260000,
             "formattedDuration": "",
-            "scorer": "Blazeknight"
+            "scorer": "JB Colombia"
         },
         "2tdm": {
-            "score": 3410000,
+            "score": 5940000,
             "formattedDuration": "",
-            "scorer": "Sonic"
+            "scorer": "T.wS"
         },
         "4tdm": {
-            "score": 2180000,
+            "score": 4430000,
             "formattedDuration": "",
-            "scorer": "Jorgito Gamer"
+            "scorer": "Mohsen"
         },
         "maze": {
-            "score": 950000,
+            "score": 2180000,
             "formattedDuration": "",
-            "scorer": "Dlupa"
+            "scorer": "Mipha"
+        }
+    },
+    "overtrapper": {
+        "ffa": {
+            "score": 907243,
+            "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1450876064493736016/image.png?ex=69690b21&is=6967b9a1&hm=2afc5f2c58865ac8e30d7778c9e44084df793a3415cf59fca89dab3419f2723f&=&format=webp&quality=lossless&width=1267&height=713"],
+            "scorer": "Mr Cheeky"
+        },
+        "2tdm": {
+            "score": 1349512,
+            "formattedDuration": "",
+            "proofImages": ["https://cdn.discordapp.com/attachments/1281143776861093898/1379882526994206750/Screenshot_2025-06-03_at_9.43.02_PM.png?ex=69692b3f&is=6967d9bf&hm=2ec1328e9b20d72a20672530285e855eb76f945f3d6a09345c87f010f060cf93"],
+            "scorer": "Trix"
+        },
+        "4tdm": {
+            "score": 911000,
+            "formattedDuration": "",
+            "scorer": "owo"
+        },
+        "maze": {
+            "score": 558000,
+            "formattedDuration": "",
+            "scorer": "Surprise"
         }
     },
     "factory": {
@@ -1069,6 +753,188 @@
             "score": 2310000,
             "formattedDuration": "",
             "scorer": "Baller"
+        }
+    },
+    "predator": {
+        "ffa": {
+            "score": 2250000,
+            "formattedDuration": "",
+            "scorer": "Unnamed sniper"
+        },
+        "2tdm": {
+            "score": 4510146,
+            "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1383558834295144448/image.png?ex=69559593&is=69544413&hm=22149daaebda7aadd332f47b6bee2eee5304623674863c4cdc8fded00eeb7ef9&=&format=webp&quality=lossless&width=1376&height=774"],
+            "scorer": "Grims"
+        },
+        "4tdm": {
+            "score": 4300000,
+            "formattedDuration": "",
+            "scorer": "potatotomato"
+        },
+        "maze": {
+            "score": 1040000,
+            "formattedDuration": "",
+            "scorer": "Astral"
+        }
+    },
+    "streamliner": {
+        "ffa": {
+            "score": 1470000,
+            "formattedDuration": "",
+            "scorer": "Zimdac"
+        },
+        "2tdm": {
+            "score": 2870000,
+            "formattedDuration": "",
+            "scorer": "Mr Cheeky"
+        },
+        "4tdm": {
+            "score": 1640000,
+            "formattedDuration": "",
+            "scorer": "rbest"
+        },
+        "maze": {
+            "score": 1320000,
+            "formattedDuration": "",
+            "scorer": "exo"
+        }
+    },
+    "tri-trapper": {
+        "ffa": {
+            "score": 1100000,
+            "formattedDuration": "",
+            "scorer": "Emerson"
+        },
+        "2tdm": {
+            "score": 1123032,
+            "formattedDuration": "",
+            "scorer": "LK2410"
+        },
+        "4tdm": {
+            "score": 1030000,
+            "formattedDuration": "",
+            "scorer": "werr"
+        },
+        "maze": {
+            "score": 648000,
+            "formattedDuration": "",
+            "scorer": "Ichio"
+        }
+    },
+    "gunner-trapper": {
+        "ffa": {
+            "score": 2160000,
+            "formattedDuration": "",
+            "scorer": "Oblivion"
+        },
+        "2tdm": {
+            "score": 1640000,
+            "formattedDuration": "",
+            "scorer": "Snapwing"
+        },
+        "4tdm": {
+            "score": 1630000,
+            "formattedDuration": "",
+            "scorer": "Pekmen"
+        },
+        "maze": {
+            "score": 1200000,
+            "formattedDuration": "",
+            "scorer": "JB Colombia"
+        }
+    },
+    "mega-trapper": {
+        "ffa": {
+            "score": 560643,
+            "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1305961623919529994/cachedImage.png?ex=6954c1ca&is=6953704a&hm=487b607145e9b1acf967628257bdd3bc2209d15223ebe4e472f3cb3a3ee1329a&=&format=webp&quality=lossless&width=1376&height=774"],
+            "scorer": "PEANUTBUTTER"
+        },
+        "2tdm": {
+            "score": 1090000,
+            "formattedDuration": "",
+            "scorer": "Denied"
+        },
+        "4tdm": {
+            "score": 1072786,
+            "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1439989780388511775/image.png?ex=6968fd7d&is=6967abfd&hm=5a4a0642b7a3efec4d4ee807335c31a1bac8e8f8f8080ac2bc58b4c69b889ab8&=&format=webp&quality=lossless&width=1267&height=713"],
+            "scorer": "hades"
+        },
+        "maze": {
+            "score": 426000,
+            "formattedDuration": "",
+            "scorer": "swi"
+        }
+    },
+    "auto-trapper": {
+        "ffa": {
+            "score": 1070000,
+            "formattedDuration": "",
+            "scorer": "JB Colombia"
+        },
+        "2tdm": {
+            "score": 2024287,
+            "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/836739939936894996/1352389013054558298/image.png?ex=6954e8aa&is=6953972a&hm=6dcfa0a1bd057cf9e7d0be9b845d7cb3866bfc3bd7530f285b28f39accdedb90&=&format=webp&quality=lossless&width=1376&height=774"],
+            "scorer": "Hades"
+        },
+        "4tdm": {
+            "score": 1150000,
+            "formattedDuration": "",
+            "scorer": "fortune"
+        },
+        "maze": {
+            "score": 1510000,
+            "formattedDuration": "",
+            "scorer": "exo"
+        }
+    },
+    "hybrid": {
+        "ffa": {
+            "score": 3084274,
+            "formattedDuration": "",
+            "proofVideo": "https://youtu.be/WnDOQWecvO4?si=vB_SBlADE3oPFOoe",
+            "year" : 2016,
+            "scorer": "lagbreaker"
+        },
+        "2tdm": {
+            "score": 2510000,
+            "formattedDuration": "",
+            "scorer": "vado"
+        },
+        "4tdm": {
+            "score": 2650000,
+            "formattedDuration": "",
+            "scorer": "jorgito gamer"
+        },
+        "maze": {
+            "score": 1610000,
+            "formattedDuration": "",
+            "scorer": "Tri-Trapper"
+        }
+    },
+    "annihilator": {
+        "ffa": {
+            "score": 2620000,
+            "formattedDuration": "",
+            "scorer": "JASON"
+        },
+        "2tdm": {
+            "score": 2990000,
+            "formattedDuration": "",
+            "scorer": "Shadowcaster"
+        },
+        "4tdm": {
+            "score": 2510000,
+            "formattedDuration": "",
+            "scorer": "X-PRO"
+        },
+        "maze": {
+            "score": 2020000,
+            "formattedDuration": "",
+            "scorer": "JB Colombia"
         }
     },
     "skimmer": {
@@ -1144,6 +1010,228 @@
             "proofVideo": "https://www.youtube.com/watch?v=7SDPP7eAYK8"
         }
     },
+    "firework": {
+        "ffa": {
+            "score": 0,
+            "formattedDuration": "",
+            "scorer": "Minimim 500,000 Required"
+        },
+        "2tdm": {
+            "score": 0,
+            "formattedDuration": "",
+            "scorer": "Minimim 500,000 Required"
+        },
+        "4tdm": {
+            "score": 0,
+            "formattedDuration": "",
+            "scorer": "Minimim 500,000 Required"
+        },
+        "maze": {
+            "score": 0,
+            "formattedDuration": "",
+            "scorer": "Minimim 500,000 Required"
+        }
+    },
+    "auto-gunner": {
+        "ffa": {
+            "score": 3150000,
+            "formattedDuration": "",
+            "scorer": "Peregrine"
+        },
+        "2tdm": {
+            "score": 2320000,
+            "formattedDuration": "",
+            "scorer": "Rhyden Bolt"
+        },
+        "4tdm": {
+            "score": 2230000,
+            "formattedDuration": "",
+            "scorer": "Overr"
+        },
+        "maze": {
+            "score": 2180000,
+            "formattedDuration": "",
+            "scorer": "exo"
+        }
+    },
+    "pellet-shot": {
+        "ffa": {
+            "score": 0,
+            "formattedDuration": "",
+            "scorer": "Minimim 500,000 Required"
+        },
+        "2tdm": {
+            "score": 0,
+            "formattedDuration": "",
+            "scorer": "Minimim 500,000 Required"
+        },
+        "4tdm": {
+            "score": 0,
+            "formattedDuration": "",
+            "scorer": "Minimim 500,000 Required"
+        },
+        "maze": {
+            "score": 0,
+            "formattedDuration": "",
+            "scorer": "Minimim 500,000 Required"
+        }
+    },
+    "dual-barrel": {
+        "ffa": {
+            "score": 0,
+            "formattedDuration": "",
+            "scorer": "Minimim 500,000 Required"
+        },
+        "2tdm": {
+            "score": 0,
+            "formattedDuration": "",
+            "scorer": "Minimim 500,000 Required"
+        },
+        "4tdm": {
+            "score": 0,
+            "formattedDuration": "",
+            "scorer": "Minimim 500,000 Required"
+        },
+        "maze": {
+            "score": 0,
+            "formattedDuration": "",
+            "scorer": "Minimim 500,000 Required"
+        }
+    },
+    "sprayer": {
+        "ffa": {
+            "score": 3940000,
+            "formattedDuration": "",
+            "scorer": "exo"
+        },
+        "2tdm": {
+            "score": 1790000,
+            "formattedDuration": "",
+            "scorer": "Fallen"
+        },
+        "4tdm": {
+            "score": 1950000,
+            "formattedDuration": "",
+            "scorer": "NoName"
+        },
+        "maze": {
+            "score": 1510000,
+            "formattedDuration": "",
+            "scorer": "Dragonis"
+        }
+    },
+    "booster": {
+        "ffa": {
+            "score": 3400000,
+            "formattedDuration": "",
+            "scorer": "exo"
+        },
+        "2tdm": {
+            "score": 1980000,
+            "formattedDuration": "",
+            "scorer": "Sprunk"
+        },
+        "4tdm": {
+            "score": 3020000,
+            "formattedDuration": "",
+            "scorer": "Wash"
+        },
+        "maze": {
+            "score": 1690000,
+            "formattedDuration": "",
+            "scorer": "exo"
+        }
+    },
+    "fighter": {
+        "ffa": {
+            "score": 3880000,
+            "formattedDuration": "",
+            "scorer": "Souka"
+        },
+        "2tdm": {
+            "score": 3300014,
+            "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1308698019683766293/3.3m.png?ex=6954d302&is=69538182&hm=335364468f03e0bba04109c9d1fccef3fb1fd2fd823dec36da8eb0de784c8002&=&format=webp&quality=lossless&width=1376&height=774"],
+            "scorer": "angle"
+        },
+        "4tdm": {
+            "score": 3448415,
+            "formattedDuration": "",
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1281793302932488193/image.png?ex=69548109&is=69532f89&hm=aa34bd2a221127fe4b66d45cb2b497ab704259b0abe2155512a942f9521361d6&=&format=webp&quality=lossless&width=1307&height=735"],
+            "scorer": "Legit Developer"
+        },
+        "maze": {
+            "score": 1880000,
+            "formattedDuration": "",
+            "scorer": "exo"
+        }
+    },
+    "landmine": {
+        "ffa": {
+            "score": 1300000,
+            "formattedDuration": "",
+            "scorer": "Relentless"
+        },
+        "2tdm": {
+            "score": 1980000,
+            "formattedDuration": "",
+            "scorer": "Sonic"
+        },
+        "4tdm": {
+            "score": 1320000,
+            "formattedDuration": "",
+            "scorer": "Sonic"
+        },
+        "maze": {
+            "score": 1070000,
+            "formattedDuration": "",
+            "scorer": "Relentless"
+        }
+    },
+    "auto-smasher": {
+        "ffa": {
+            "score": 1390000,
+            "formattedDuration": "",
+            "scorer": "Astral"
+        },
+        "2tdm": {
+            "score": 1900000,
+            "formattedDuration": "",
+            "scorer": "Sonic"
+        },
+        "4tdm": {
+            "score": 2350000,
+            "formattedDuration": "",
+            "scorer": "GlitchuPichu"
+        },
+        "maze": {
+            "score": 686000,
+            "formattedDuration": "",
+            "scorer": "Taco"
+        }
+    },
+    "spike": {
+        "ffa": {
+            "score": 1500000,
+            "formattedDuration": "",
+            "scorer": "Blazeknight"
+        },
+        "2tdm": {
+            "score": 3410000,
+            "formattedDuration": "",
+            "scorer": "Sonic"
+        },
+        "4tdm": {
+            "score": 2180000,
+            "formattedDuration": "",
+            "scorer": "Jorgito Gamer"
+        },
+        "maze": {
+            "score": 950000,
+            "formattedDuration": "",
+            "scorer": "Dlupa"
+        }
+    },
     "auto-tank": {
         "ffa": {
             "score": 812837,
@@ -1168,92 +1256,5 @@
             "formattedDuration": "",
             "scorer": "Minimim 500,000 Required"
         }
-    },
-    "shotgun": {
-        "ffa": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
-        }
-    },"dual-barrel": {
-        "ffa": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
-        }
-    },"pellet-shot": {
-        "ffa": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
-        }
-    },"firework": {
-        "ffa": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
-        },
-        "2tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
-        },
-        "4tdm": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
-        },
-        "maze": {
-            "score": 0,
-            "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
-        }
     }
 }
-
-
