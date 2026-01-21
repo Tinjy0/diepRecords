@@ -1013,10 +1013,10 @@
     },
     "firework": {
         "ffa": {
-            "score": 513984,
+            "score": 541960,
             "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/1082195385314975744/1456665096565686272/image.png?ex=69723d16&is=6970eb96&hm=37219982dcc56c2effc6b4d7cc19ee280b7f989b78480ed07c539bb46b5d9565&=&format=webp&quality=lossless&width=1301&height=617"],
-            "scorer": "Solar"
+            "proofImages": ["https://media.discordapp.net/attachments/1082195385314975744/1455905766065307761/image.png?ex=69721ce8&is=6970cb68&hm=ec0e2022ad7c882fde00db36dbe4c5c5acbe5b2fed15026cab3d85a2e4a93238&=&format=webp&quality=lossless&width=1308&height=734"],
+            "scorer": "Katana"
         },
         "2tdm": {
             "score": 3120148,
@@ -1264,6 +1264,7 @@
         }
     }
 }
+
 
 
 
