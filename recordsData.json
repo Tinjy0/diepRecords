@@ -1012,9 +1012,10 @@
     },
     "firework": {
         "ffa": {
-            "score": 0,
+            "score": 513984,
             "formattedDuration": "",
-            "scorer": "Minimim 500,000 Required"
+            "proofImages": ["https://media.discordapp.net/attachments/1082195385314975744/1456665096565686272/image.png?ex=69723d16&is=6970eb96&hm=37219982dcc56c2effc6b4d7cc19ee280b7f989b78480ed07c539bb46b5d9565&=&format=webp&quality=lossless&width=1301&height=617"],
+            "scorer": "Solar"
         },
         "2tdm": {
             "score": 3120148,
@@ -1260,6 +1261,7 @@
         }
     }
 }
+
 
 
 
