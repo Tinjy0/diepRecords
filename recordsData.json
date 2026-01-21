@@ -993,10 +993,10 @@
             "scorer": "Euphyllia"
         },
         "2tdm": {
-            "score": 1131626,
+            "score": 1438017,
             "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1352488069659496529/image.png?ex=69549c2b&is=69534aab&hm=acd9a87c946bfd3e3c6bd6a2a37d51bf4916c59aa179ccc85243b112dab445b8&=&format=webp&quality=lossless"],
-            "scorer": "LimX"
+            "proofImages": ["https://media.discordapp.net/attachments/1416816059041845512/1461792594194338087/image.png?ex=69726f71&is=69711df1&hm=f489911683814a5534bb2a9ff37de52ed911fb55499ab774a40273d19f14f0ae&=&format=webp&quality=lossless&width=1076&height=758"],
+            "scorer": "Rexind"
         },
         "4tdm": {
             "score": 1194548,
@@ -1258,3 +1258,4 @@
         }
     }
 }
+
