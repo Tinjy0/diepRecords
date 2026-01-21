@@ -334,10 +334,10 @@
     },
     "shotgun": {
         "ffa": {
-            "score": 510257,
+            "score": 742592,
             "formattedDuration": "",
-            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1450999747522465904/diep.io_-_Shotgun_510k.png?ex=69721012&is=6970be92&hm=8a117ea7fdca7c3a9d09addfe3e5eb1bcd612f2ace863a0953dd7d6a8c171966&=&format=webp&quality=lossless&width=1141&height=641"],
-            "scorer": "Fire"
+            "proofImages": ["https://media.discordapp.net/attachments/1281143776861093898/1431071616841814016/Shotgun_742k_FFA.png?ex=6972130d&is=6970c18d&hm=73863cd97f3c75461fdd9ef15cbfb16c826db3e33dc27ad6e396c38ce1ef7c19&=&format=webp&quality=lossless&width=1356&height=641"],
+            "scorer": "Ariphael"
         },
         "2tdm": {
             "score": 0,
@@ -1266,6 +1266,7 @@
         }
     }
 }
+
 
 
 
