@@ -955,7 +955,6 @@
         },
         "maze": {
             "score": 605482,
-            "proofImages": [""],
             "scorer": "Deception",
             "proofVideo": "https://www.youtube.com/watch?v=7SDPP7eAYK8"
         }
@@ -1204,3 +1203,4 @@
         }
     }
 }
+
